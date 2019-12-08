@@ -13,15 +13,16 @@ Bjerkvik i stedet for Rombaken
 Dette vil medføre at Rombakken – Mo i Rana blir kortere, 
 Roavegieddi – Rombakken blir kortere og Border Norway/Sweden blir lengre.
 Den delen av E6 som går mellom dagens punkt Rombaken og Narvik må utgå 
-(selv om den fortsatt er E6 er den ikke lenger TEN-T og den skal omklassifiseres til fylkesveg (nr 7575??)). Vedtaket er gjort men ikke iverksett 
+(selv om den fortsatt er E6 er den ikke lenger TEN-T og den skal omklassifiseres til fylkesveg (nr 7575??)). 
+Vedtaket er gjort men ikke iverksett 
 fordi det forutsetter noen tiltak som må utføres først.
 Logical nodes kan muligens bare være slik de er, men Logical sections må 
 endres slik: Rombakken - N-NO-006.02 Narvik må bli Bjerkvik – N-NO-004.19 – Narvik.
 ```
 
-Hvorfor må vi endre strekningsdefinisjonene? Og gjøre det så komplisert? Og hva har Bjerkvik med saken å gjøre, vi flytter jo ikke lenger på den? 
+Hvorfor må vi endre strekningsdefinisjonene? Og gjøre det så komplisert? Og hva har Bjerkvik med saken å gjøre, vi flytter jo ikke på den? 
 
-Noden Rombakken er flyttet til krysset E6/E10 ved Stormyra. Den overordnede nettverkstopologien - hva strekningene heter og hvilket navn de har - er IKKE påvirket. 
+Noden Rombakken er flyttet til krysset E6/E10 ved Stormyra. Den overordnede nettverkstopologien - hva strekningene heter, hvilket navn de har og hvordan de henger sammen - er IKKE påvirket. Eneste endring er at tre av strekningene har endret lengde og en av dem har en helt ny trasé. 
 
   * Bjerkvik - Rombaken er kortet inn 
   * Rombaken - Svenskegrensa er blitt lengre
