@@ -1,4 +1,30 @@
 
+#### Hålogalandsbrua nord for Narvik åpnet sent i 2018
+
+
+```
+Her må vi:
+Functional node Rombaken må flyttes til Bjerkvik (Stormyra på kartet under - nytt kryss ml E6 og E10)
+Functional link «Rombakken – Mo i Rana, Roavegieddi – Rombakken og Rombaken - Border Norway/Sweden – Bjornefjell må endres med Bjerkvik i stedet for Rombaken
+Dette vil medføre at Rombakken – Mo i Rana blir kortere, Roavegieddi – Rombakken blir kortere og Border Norway/Sweden blir lengre.
+Den delen av E6 som går mellom dagens punkt Rombaken og Narvik må utgå (selv om den fortsatt er E6 er den ikke lenger TEN-T og den skal omklassifiseres til fylkesveg (nr 7575??)). Vedtaket er gjort men ikke iverksett fordi det forutsetter noen tiltak som må utføres først.
+Logical nodes kan muligens bare være slik de er, men Logical sections må endres slik: Rombakken - N-NO-006.02 Narvik må bli Bjerkvik – N-NO-004.19 – Narvik.
+```
+
+Hvorfor må vi endre strekningsdefinisjonene? Og gjøre det så komplisert? 
+
+Noden Rombakken er flyttet til krysset E6/E10 ved Stormyra. Den overordnede nettverkstopologien - hva strekningene heter og hvilket navn de har - er IKKE påvirket. 
+
+  * Bjerkvik - Rombaken er kortet inn 
+  * Rombaken - Svenskegrensa er blitt lengre
+  * Rombaken - Narvik har fått helt ny trasé. 
+  
+  
+![Ny Rombaken og NVDB-endringer](rombaken.png) 
+
+
+TEN-T strekningene på stedet er selvsagt oppdatert. 
+
 
 #### NO-014.03  Vinterbru/Aarungen 
 
