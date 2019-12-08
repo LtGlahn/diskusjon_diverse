@@ -2,16 +2,24 @@
 #### Hålogalandsbrua nord for Narvik åpnet sent i 2018
 
 
+Lang og kompleks forklaring som jeg er uenig i: 
+
 ```
 Her må vi:
 Functional node Rombaken må flyttes til Bjerkvik (Stormyra på kartet under - nytt kryss ml E6 og E10)
-Functional link «Rombakken – Mo i Rana, Roavegieddi – Rombakken og Rombaken - Border Norway/Sweden – Bjornefjell må endres med Bjerkvik i stedet for Rombaken
-Dette vil medføre at Rombakken – Mo i Rana blir kortere, Roavegieddi – Rombakken blir kortere og Border Norway/Sweden blir lengre.
-Den delen av E6 som går mellom dagens punkt Rombaken og Narvik må utgå (selv om den fortsatt er E6 er den ikke lenger TEN-T og den skal omklassifiseres til fylkesveg (nr 7575??)). Vedtaket er gjort men ikke iverksett fordi det forutsetter noen tiltak som må utføres først.
-Logical nodes kan muligens bare være slik de er, men Logical sections må endres slik: Rombakken - N-NO-006.02 Narvik må bli Bjerkvik – N-NO-004.19 – Narvik.
+Functional link «Rombakken – Mo i Rana, Roavegieddi – Rombakken 
+og Rombaken - Border Norway/Sweden – Bjornefjell må endres med 
+Bjerkvik i stedet for Rombaken
+Dette vil medføre at Rombakken – Mo i Rana blir kortere, 
+Roavegieddi – Rombakken blir kortere og Border Norway/Sweden blir lengre.
+Den delen av E6 som går mellom dagens punkt Rombaken og Narvik må utgå 
+(selv om den fortsatt er E6 er den ikke lenger TEN-T og den skal omklassifiseres til fylkesveg (nr 7575??)). Vedtaket er gjort men ikke iverksett 
+fordi det forutsetter noen tiltak som må utføres først.
+Logical nodes kan muligens bare være slik de er, men Logical sections må 
+endres slik: Rombakken - N-NO-006.02 Narvik må bli Bjerkvik – N-NO-004.19 – Narvik.
 ```
 
-Hvorfor må vi endre strekningsdefinisjonene? Og gjøre det så komplisert? 
+Hvorfor må vi endre strekningsdefinisjonene? Og gjøre det så komplisert? Og hva har Bjerkvik med saken å gjøre, vi flytter jo ikke lenger på den? 
 
 Noden Rombakken er flyttet til krysset E6/E10 ved Stormyra. Den overordnede nettverkstopologien - hva strekningene heter og hvilket navn de har - er IKKE påvirket. 
 
