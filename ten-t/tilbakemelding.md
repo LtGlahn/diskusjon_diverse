@@ -60,8 +60,7 @@ Nei, det var den ikke - det husker jeg! Det var anleggsveg og blanding av nytt o
 nord for Bergen øker med 2 km og det har ikke skjedd noe her
 ```
 
-Kan dobbeltsjekke at ikke toløp telles 2x. 
-
+Vegnettsendring, feil håndtering av toløp ga 2x lengde på deler av strekningen. **fiksa**, feilhåndtering
 
 #### NO-101.02         Biskophavn/Bergen 
 
@@ -69,7 +68,7 @@ Kan dobbeltsjekke at ikke toløp telles 2x.
 Øker med 4 km og det har ikke skjedd noe her. Samtidig har jo trafikkarbeidet økt betydelig.
 ```
 
-Kan dobbeltsjekke at ikke toløp telles 2x. 
+Vegnettsendring, mer presis geometri på tunneller - men dessverre lagt inn feil, slik at toløpstunnel ble telt 2x. **fiksa**, feilhåndtering. 
 
 #### NO-021.12         Skogn/Stjordal 
 
