@@ -18,7 +18,7 @@ Vi plukker vilkårlig ut ett element med manglende ´geometri-element (ID=835716
 https://apilesv3.test.atlas.vegvesen.no/vegobjekter/904&kommune=5001&vegsystemreferanse=K
  
 Dette objektet mangler `geometri` - elementet og har en tom liste under `lokasjon/vegsystemreferanse`. 
-Under `vegsegmenter` finnes kun ett element, med sluttdato=2016-05-02. 
+Under `vegsegmenter` finnes kun ett historisk element, med sluttdato=2016-05-02. 
 
 ### Ulike verdier når objektet er del av en mengde (søkefilter) eller hentes direkte   
 
@@ -31,9 +31,9 @@ finner jeg tre elementer, det siste med åpen sluttdato (mangler sluttdato-eleme
 
 ### Objektets gyldige vegkategori (P) matcher ikke søkefilter (K) 
 
-Den gyldige vegkategorien for objektet er P (privat veg), noe som ikke matcher søkefilteret mitt (vegsystemreferanse=K i Trondheim kommune). Men det matcher det ene historiske ´vegsegmenter´-elementet vi fikk, med sluttdato i 2016. 
+Den gyldige vegkategorien for objektet er P (privat veg), noe som ikke matcher søkefilteret mitt (vegsystemreferanse=K i Trondheim kommune). Men det matcher det ene historiske `vegsegmenter`-elementet vi fikk, med sluttdato i 2016. 
 
 ### Søk på /veg - endepunktet med vegsystemreferanse og veglenkesekvens funker 
 
-Søk på ´veg´ - endepunktet med veglenkeposisjon https://apilesv3.test.atlas.vegvesen.no/veg?veglenkesekvens=0.6@42806 eller vegsystemreferanse https://apilesv3.test.atlas.vegvesen.no/veg?vegsystemreferanse=PV8475S7D1m29&kommune=5001 ser ut til å fungere korrekt. 
+Søk på `veg` - endepunktet med veglenkeposisjon https://apilesv3.test.atlas.vegvesen.no/veg?veglenkesekvens=0.6@42806 eller vegsystemreferanse https://apilesv3.test.atlas.vegvesen.no/veg?vegsystemreferanse=PV8475S7D1m29&kommune=5001 ser ut til å fungere korrekt. 
 
