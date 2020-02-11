@@ -14,10 +14,9 @@ Ved kjøring av scriptet `debug_paginering` fås to typer utlisting:
 
 # Stikkprøve, objekt 835716305 hentet fra atlas TEST 
 
-Vi plukker vilkårlig ut ett element med manglende ´geometri-element fra søket 
+Vi plukker vilkårlig ut ett element med manglende ´geometri-element (ID=835716305) fra søket 
 https://apilesv3.test.atlas.vegvesen.no/vegobjekter/904&kommune=5001&vegsystemreferanse=K
-valgt objekt ble id=835716305. 
-
+ 
 Dette objektet mangler `geometri` - elementet og har en tom liste under `lokasjon/vegsystemreferanse`. 
 Under `vegsegmenter` finnes kun ett element, med sluttdato=2016-05-02. 
 
@@ -30,7 +29,7 @@ så ser alt normalt ut. Da har objektet et gyldig geometri-element og utlisting 
 Når jeg tar med vegsegmenter https://apilesv3.test.atlas.vegvesen.no/vegobjekter/904/835716305/4.json?inkluder=alle 
 finner jeg tre elementer, det siste med åpen sluttdato (mangler sluttdato-element)
 
-### Objektets vegkategori matcher ikke søkefilter 
+### Objektets gyldige vegkategori (P) matcher ikke søkefilter (K) 
 
 Den gyldige vegkategorien for objektet er P (privat veg), noe som ikke matcher søkefilteret mitt (vegsystemreferanse=K i Trondheim kommune). Men det matcher det ene historiske ´vegsegmenter´-elementet vi fikk, med sluttdato i 2016. 
 
