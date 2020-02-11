@@ -1,0 +1,3 @@
+159 objekter av 1979 mangler geometri 
+for søket https://apilesv3.test.atlas.vegvesen.no/vegobjekter/904
+med parametre{'kommune': 5001, 'vegsystemreferanse': 'K', 'inkluder': 'alle'}
