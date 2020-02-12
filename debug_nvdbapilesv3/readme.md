@@ -11,6 +11,10 @@ Ved kjøring av scriptet `debug_paginering` fås to typer utlisting:
   - en komplett utlisting av alle data slik de hentes fra NVDB api, ei fil ´debugapi_sideN.json´ per pagineringsside
   - Utlisting av de vegobjektene som manglet `geometri` - elementet på rotnivå, fil ´mangler_geometri.json´ 
   - Deretter tar vi stikkprøver og gransker minst ett objekt i detalj
+  
+# Uthenting av objekter med søkefilter
+
+Søket https://apilesv3.test.atlas.vegvesen.no/vegobjekter/904&kommune=5001&vegsystemreferanse=K returnerer 1979 vegobjekter, hvorav 159 - 8% - mangler `geometri`- element på rotnivå. 
 
 # Stikkprøve, objekt 835716305 hentet fra atlas TEST 
 
@@ -37,3 +41,11 @@ Den gyldige vegkategorien for objektet er P (privat veg), noe som ikke matcher s
 
 Søk på `veg` - endepunktet med veglenkeposisjon https://apilesv3.test.atlas.vegvesen.no/veg?veglenkesekvens=0.6@42806 eller vegsystemreferanse https://apilesv3.test.atlas.vegvesen.no/veg?vegsystemreferanse=PV8475S7D1m29&kommune=5001 ser ut til å fungere korrekt. 
 
+# Alvorlighetsgrad
+
+Feilen reduserer verdien av mengdeuttak (søk av type `vegobjekter/<objekttype.id?søkefilter=`) dramatisk. Dette reduserer bruksverdien av NVDB api V3 betydelig. 
+
+  * Vi kan ikke stole på at søkefilter på geometri og vegsystemreferanse returnerer korrekt mengde objekter (ref stikkprøve), iallfall ikke når søkefilteret omfatter geometri eller vegsystemreferanse. 
+  * Estimert mellom 5 og 10% av de returnerte objektene er mangelfulle, uten `geometri`-element og uten gyldige data i `lokasjon/vegsystemreferanse`. 
+
+Det er mulig å utforske mer presist hvilke typer filtre som påvirkes, eller skaffe statistikk over de berørte objektene.  
