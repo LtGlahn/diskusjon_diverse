@@ -39,6 +39,8 @@ Den gyldige vegkategorien for objektet er P (privat veg), noe som ikke matcher s
 
 ### Søk på /veg - endepunktet med vegsystemreferanse og veglenkesekvens funker 
 
+Vi har erfaring fra at en bekymringsmessig stor andel av oppslag på veglenkesekvensposisjon feiler (dvs søk av typen `veg?veglenkesekvens=0.5@42806`). Vi gjorde en stikkprøve for å se om dette var relatert til feilen omtalt her, men det gjelder iallfall ikke  veglenkesekvensen og vegsystemreferansen for objekt 835716305: 
+
 Søk på `veg` - endepunktet med veglenkeposisjon https://apilesv3.test.atlas.vegvesen.no/veg?veglenkesekvens=0.6@42806 eller vegsystemreferanse https://apilesv3.test.atlas.vegvesen.no/veg?vegsystemreferanse=PV8475S7D1m29&kommune=5001 ser ut til å fungere korrekt. 
 
 # Alvorlighetsgrad
