@@ -1,4 +1,4 @@
-# Oppslag på `veg?` - endepunktet feiler 
+# Oppslag på `veg?` - endepunktet ~~feiler~~ feilet FIKSA 
 
 Som et ledd i arbeid med å oversette steingamle 532 vegreferanseverdier til dagsferske veg(system)referanser, i både gammelt og nytt 
 referansesystem, har jeg en stor mengde logger fra FME å grave i. Litt datamassasje og et par linjer python gir dette resultatet: 
@@ -22,6 +22,15 @@ Eksempel på feil som var før, men nå er retta: Oppslag på veglenkeposisjonen
 v3 https://www.vegvesen.no/nvdb/api/v3/veg?veglenkesekvens=0.7564214@1060646. Dette oppslaget returnerer nå forventede verdier. 
 
 
-## Nye data
+## Nye data - feilen er RETTA! 
 
-For alle oppslag som feilet 
+Vi fant tidligere 2123 oppslag som feilet mot NVDB api V2, men var gyldige oppslag i V2. 2121 av disse er nå gyldige oppslag i V3. 
+
+Vi står igjen med disse to oppslagene som feiler i V3, men er gyldige i V2: 
+
+  * Case 1:
+    * Suksess i v2 https://www.vegvesen.no/nvdb/api/v2/veg?veglenke=0@1669840
+    * feiler i v3 https://www.vegvesen.no/nvdb/api/v3/veg?veglenkesekvens=0@1669840
+  * Case 2
+    * Suksess i v2 https://www.vegvesen.no/nvdb/api/v2/veg?veglenke=0@1669840
+    * Feiler i v3 https://www.vegvesen.no/nvdb/api/v3/veg?veglenkesekvens=0@1669840

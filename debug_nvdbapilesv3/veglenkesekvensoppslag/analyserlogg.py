@@ -130,15 +130,17 @@ if __name__ == "__main__":
                 if 'vegsystemreferanse' in res.keys() and 'kortform' in res['vegsystemreferanse'].keys() and len( res['vegsystemreferanse']['kortform']) > 7:
                     retta += 1
                 else: 
-                    r = requests.get( kk['url'])
-                    if r.ok: 
-                        res2 = r.json()
-                        print( 'Feiler i v3, suksess i v2:')
-                        print( '\tSuksess', kk['url'])
-                        print( '\tFEIL', kv3['url'])
-                    else: 
-                        print( 'Feiler i både v2 og v3:')
-                        print( '\t', kk['url'])
-                        print( '\t', kv3['url'])
+                    print( "Fikk 200 ok, men ikke gyldige data???", res)
+            else: 
+                r = requests.get( kk['url'])
+                if r.ok: 
+                    res2 = r.json()
+                    print( 'Feiler i v3, suksess i v2:')
+                    print( '\tSuksess', kk['url'])
+                    print( '\tFEIL', kv3['url'])
+                else: 
+                    print( 'Feiler i både v2 og v3:')
+                    print( '\t', kk['url'])
+                    print( '\t', kv3['url'])
 
     print( 'Gamle feil som er riktig nå:', retta )
