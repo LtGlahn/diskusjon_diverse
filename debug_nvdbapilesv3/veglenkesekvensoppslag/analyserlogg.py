@@ -71,7 +71,7 @@ if __name__ == "__main__":
 
     data = []
 
-    f = open( 'data/fmekall_veglenke.log')
+    f = open( 'data13februar/fmekall_veglenke.log')
     for linje in f: 
         # rad = parselinje( f.readline() )
         rad = parselinje( linje )
@@ -107,40 +107,40 @@ if __name__ == "__main__":
     # Ettergår feilene, dvs ulik status i v2 og v3
     avvik = []
     retta = 0
-    for (index, kk) in enumerate(data):
+    # for (index, kk) in enumerate(data):
 
-        if index % 2 == 0 and index+1 < len(data):
-            kv3 = data[index+1] 
-            if kk['status'] == 200 and kv3['status'] != 200:
-                avvik.append( kk)
-                avvik.append( data[index+1] )
+    #     if index % 2 == 0 and index+1 < len(data):
+    #         kv3 = data[index+1] 
+    #         if kk['status'] == 200 and kv3['status'] != 200:
+    #             avvik.append( kk)
+    #             avvik.append( data[index+1] )
 
 
 
-    for (index, kk) in enumerate(avvik):
+    # for (index, kk) in enumerate(avvik):
 
-        if index == 10 or index % 50 == 0: 
-            print( 'Sjekker avvik', index, 'av', len(avvik))
+    #     if index == 10 or index % 50 == 0: 
+    #         print( 'Sjekker avvik', index, 'av', len(avvik))
 
-        if index % 2 == 0 and index+1 < len(avvik):
-            kv3 = avvik[index+1]
-            r = requests.get( kv3['url'])
-            if r.ok: 
-                res = r.json()
-                if 'vegsystemreferanse' in res.keys() and 'kortform' in res['vegsystemreferanse'].keys() and len( res['vegsystemreferanse']['kortform']) > 7:
-                    retta += 1
-                else: 
-                    print( "Fikk 200 ok, men ikke gyldige data???", res)
-            else: 
-                r = requests.get( kk['url'])
-                if r.ok: 
-                    res2 = r.json()
-                    print( 'Feiler i v3, suksess i v2:')
-                    print( '\tSuksess', kk['url'])
-                    print( '\tFEIL', kv3['url'])
-                else: 
-                    print( 'Feiler i både v2 og v3:')
-                    print( '\t', kk['url'])
-                    print( '\t', kv3['url'])
+    #     if index % 2 == 0 and index+1 < len(avvik):
+    #         kv3 = avvik[index+1]
+    #         r = requests.get( kv3['url'])
+    #         if r.ok: 
+    #             res = r.json()
+    #             if 'vegsystemreferanse' in res.keys() and 'kortform' in res['vegsystemreferanse'].keys() and len( res['vegsystemreferanse']['kortform']) > 7:
+    #                 retta += 1
+    #             else: 
+    #                 print( "Fikk 200 ok, men ikke gyldige data???", res)
+    #         else: 
+    #             r = requests.get( kk['url'])
+    #             if r.ok: 
+    #                 res2 = r.json()
+    #                 print( 'Feiler i v3, suksess i v2:')
+    #                 print( '\tSuksess', kk['url'])
+    #                 print( '\tFEIL', kv3['url'])
+    #             else: 
+    #                 print( 'Feiler i både v2 og v3:')
+    #                 print( '\t', kk['url'])
+    #                 print( '\t', kv3['url'])
 
-    print( 'Gamle feil som er riktig nå:', retta )
+    # print( 'Gamle feil som er riktig nå:', retta )

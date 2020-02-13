@@ -34,3 +34,18 @@ Vi står igjen med disse to oppslagene som feiler i V3, men er gyldige i V2:
   * Case 2
     * Suksess i v2 https://www.vegvesen.no/nvdb/api/v2/veg?veglenke=0@1669840
     * Feiler i v3 https://www.vegvesen.no/nvdb/api/v3/veg?veglenkesekvens=0@1669840
+
+# Ny test, verifisere at feilen er vekk (13.2.2020)
+
+Jeg kjørte ymse  FME workspace på ny 12.2.2020. Disse FME workspacene gjør oppslag på eksakt samme veglenkeposisjon i V2 og V3 for å hente ut vegreferanseverdier for et punkt på vegnettet. Resultatet er ganske så oppløftende: 
+
+```
+bash$ ipython 
+ipython%run analyserlogg.py
+Antall feil V2 8261 / 195547 Feilrate= 4  %
+Antall feil V3 8241 / 195547 Feilrate= 4  %
+```
+
+Jeg hadde kanskje forventet en lavere feilrate enn 4%, selv med utgangspunkt i flere år gamle vegreferanser (vi bruker visveginfo for å finne veglenkeposisjon for den dagen vegreferansen var gyldig). Hvis riktig så betyr det at 4% av disse punktene er historisk vegnett. 
+
+**Men - vi har lært oss å stole på NVDB api V2**. Hvis vi synes 4% historisk vegnett er høyt så må vi heller ettergå det i detalj. **Nå er V2 og V3 enige om hvilke av  disse 195.547 veglenkeposisjonene som er gyldige, så på dette punktet friskmelder jeg NVDB api V3**. 
