@@ -30,24 +30,16 @@ de dataene jeg sendte dem. Her er første oppføring fra fila
 Mangler 'ny_vegsystemreferanse_fra' for 0.63720528@2179875, ReflinkOID : 0.63720528@249525 <-> 0.68579931@249525, Org vegRef.: 1500Ev39hp16m0 - 1500Ev39hp16m30
 	ny_vegsystemreferanse_fra, lesAPI :0.63720528@2179875 -> EV39 S30D1 m4834
 ``` 
-Oppgitt vegreferanse i "Fra" - posisjon er `1500Ev39hp16m0`, skrevet som visveginfo-syntaks: `1500EV0003901600000`. I FME-loggen finner vi dette kallet til visveginfo: http://visveginfo-static.opentns.org/RoadInfoService/GetRoadReferenceForReference?roadReference=1500EV0003901600000&topologyLevel=Overview&ViewDate=2014-08-12
+Oppgitt vegreferanse i "Fra" - posisjon er `1500Ev39hp16m0`, skrevet som visveginfo-syntaks: `1500EV0003901600000`. I FME-loggen finner vi dette kallet til visveginfo: http://visveginfo-static.opentns.org/RoadInfoService/GetRoadReferenceForReference?roadReference=1500EV0003901600000&topologyLevel=Overview&ViewDate=2012-02-13
 
-Som returnerer posisjon 0.63716548 (rundet av til 8 siffer) på veglenkesekvens 2179875. Dvs kortform 0.637165484709574@2179875 som gir gyldig oppslag mot NVDB api v3 
-https://www.vegvesen.no/nvdb/api/v3/veg?veglenkesekvens=0.637165484709574@2179875
-som gir vegsystemreferansen EV39 S30D1 m4834. 
+Som returnerer posisjon 0.45825379 på veglenkesekvens 249525. Dvs kortform 0.45825379@249525 som brukes i følgende oppslag mot NVDB api v3 
+https://www.vegvesen.no/nvdb/api/v3/veg?veglenkesekvens=0.45825379@249525
+Denne biten av veglenkesekvens 249525 ble imidlertid satt historisk, noe du finner ut ved å granske historien for veglenkene https://www.vegvesen.no/nvdb/api/v3/vegnett/veglenkesekvenser/249525
 
-Ut fra FME-loggen så har vi fått gyldige data _(http status kode 200, et par hundre bytes lastet ned)_ på alle kall mot nvdb api V2 og V3 `veg` - endepunktet med parameter `veglenkeposisjon=0.63716548 (eller finere) @2179875`. 
+**Dette eksemplet SKAL altså være ugyldig - den vegen som fantes med vegreferanse 1500Ev39hp16m0 i 2012 finnes ikke lenger**. Her kom det ny kryssløsning E39-Fv661
 
-```
- bash$ grep 2179875 Metodefil_Region_MIDT_OldRef_15.log | grep status | grep 0.63716548
-2020-02-13 01:30:48|  18.5|  0.0|INFORM|HTTPCaller_6(HTTPFactory): HTTP transfer summary - status code: 200, download size: '299 bytes', DNS lookup time: '1e-6 seconds', total transfer time: '0 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/veg?veglenke=0.637165484709574%402179875'
-2020-02-13 01:30:48|  18.5|  0.0|INFORM|HTTPCaller_8(HTTPFactory): HTTP transfer summary - status code: 200, download size: '526 bytes', DNS lookup time: '1e-6 seconds', total transfer time: '0.063 seconds', url: 'https://www.vegvesen.no/nvdb/api/v3/veg?veglenkesekvens=0.637165484709574%402179875'
-2020-02-13 01:30:49|  18.5|  0.0|INFORM|HTTPCaller_4(HTTPFactory): HTTP transfer summary - status code: 200, download size: '280 bytes', DNS lookup time: '1e-6 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/veg?veglenke=0.63716548%402179875'
-2020-02-13 01:30:49|  18.5|  0.0|INFORM|HTTPCaller_7(HTTPFactory): HTTP transfer summary - status code: 200, download size: '494 bytes', DNS lookup time: '1e-6 seconds', total transfer time: '0.047 seconds', url: 'https://www.vegvesen.no/nvdb/api/v3/veg?veglenkesekvens=0.63716548%402179875'
-```
-Jeg merker meg at posisjonen Viatech oppgir (`0.63720528`) avviker fra det jeg får manuelt her (`0.63716548`, differanse  = `0.0000398`), og som er brukt i kallene mot tjenesten. Vi pleier regne med 8 siffers presisjon i disse kallene, men i dette tilfellet påvirker ikke dette den returnerte vegsystemreferanse. Avvik på  5. siffer vil kun få betydning på de lengste veglenkene. 
-
-En annen merknad er at det er en del duplikater i metodefil-XML'en som er utgangspunkt for vår analyse. 
+![Ny kryssløsning E39 - Fv661](pics/nyttkryss1500Ev39hp16m0.png)
+ 
 
 # Opppsummering, alle fylker 
 
