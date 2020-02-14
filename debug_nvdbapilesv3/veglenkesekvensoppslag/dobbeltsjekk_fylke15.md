@@ -30,15 +30,14 @@ de dataene jeg har oversett. Jeg får ikke de angitte verdiene til å henge i ho
 Mangler 'ny_vegsystemreferanse_fra' for 0.63720528@2179875, ReflinkOID : 0.63720528@249525 <-> 0.68579931@249525, Org vegRef.: 1500Ev39hp16m0 - 1500Ev39hp16m30
 	ny_vegsystemreferanse_fra, lesAPI :0.63720528@2179875 -> EV39 S30D1 m4834
 ``` 
-Oppgitt vegreferanse i "Fra" - posisjon er `1500Ev39hp16m0`, skrevet som visveginfo-syntaks: `1500EV0003900100000`. I FME-loggen finner vi dette kallet til visveginfo: http://visveginfo-static.opentns.org/RoadInfoService/GetRoadReferenceForReference?roadReference=1500EV0003900100000&topologyLevel=Overview&ViewDate=2014-08-12 
+Oppgitt vegreferanse i "Fra" - posisjon er `1500Ev39hp16m0`, skrevet som visveginfo-syntaks: `1500EV0003901600000`. I FME-loggen finner vi dette kallet til visveginfo: http://visveginfo-static.opentns.org/RoadInfoService/GetRoadReferenceForReference?roadReference=1500EV0003901600000&topologyLevel=Overview&ViewDate=2014-08-12
 
-Som returnerer posisjon 0 på veglenkesekvens 2212895. **Men jeg ser ikke henvisning til denne veglenkeposisjonen verdien i oppføringen over! Her må vi granske mer. Sjekkpunkter:**
+Som returnerer posisjon 0.63716548 (rundet av til 8 siffer) på veglenkesekvens 2179875. Dvs kortform 0.637165484709574@2179875 som gir gyldig oppslag mot NVDB api v3 
+https://www.vegvesen.no/nvdb/api/v3/veg?veglenkesekvens=0.637165484709574@2179875
+som gir vegsystemreferansen EV39 S30D1 m4834. 
 
-  * [ ] Granske datasett oversendt 13.2 og sjekke hva som stemmer og ikke stemmer med anførte data fra Viatech og dette visveginfo-oppslaget 
-  * [ ] Kjøre FME-rutine, debugge og sjekke hva vi får der for denne oppføringen.  
-  * [ ] ? Se hva annet rart vi finner
+Jeg merker meg at posisjonen Viatech oppgir (`0.63720528`) avviker fra det jeg får manuelt her (`0.63716548, differanse  = 0.0000398`). Vi pleier regne med 8 siffers presisjon i disse kallene, men i dette tilfellet påvirker ikke dette den returnerte vegsystemreferanse. Avvik på  5. siffer vil kun få betydning på de lengste veglenkene. 
 
-Mulige feilkilder: FME workspace, Viatech prosesserering, rot med gamle versjoner av ting og tang. 
 
 # Opppsummering, alle fylker 
 
