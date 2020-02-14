@@ -25,7 +25,7 @@ Antall feilsituasjoner som fremdeles feiler 488 / 488 100 %
 ### Stusser på angitte veglenkeposisjoner i fil fra Viatech 
 
 Viatech sin fil `data_fylke15viatech/Fylke 15 - GenMethodfileFromCvs20200213_041246.txt` oppsummerer de vegsystemreferansene som mangler i 
-de dataene jeg har oversett. Jeg får ikke de angitte verdiene til å henge i hop. Her er første oppføring
+de dataene jeg sendte dem. Her er første oppføring fra fila
 ```
 Mangler 'ny_vegsystemreferanse_fra' for 0.63720528@2179875, ReflinkOID : 0.63720528@249525 <-> 0.68579931@249525, Org vegRef.: 1500Ev39hp16m0 - 1500Ev39hp16m30
 	ny_vegsystemreferanse_fra, lesAPI :0.63720528@2179875 -> EV39 S30D1 m4834
@@ -36,8 +36,18 @@ Som returnerer posisjon 0.63716548 (rundet av til 8 siffer) på veglenkesekvens 
 https://www.vegvesen.no/nvdb/api/v3/veg?veglenkesekvens=0.637165484709574@2179875
 som gir vegsystemreferansen EV39 S30D1 m4834. 
 
-Jeg merker meg at posisjonen Viatech oppgir (`0.63720528`) avviker fra det jeg får manuelt her (`0.63716548, differanse  = 0.0000398`). Vi pleier regne med 8 siffers presisjon i disse kallene, men i dette tilfellet påvirker ikke dette den returnerte vegsystemreferanse. Avvik på  5. siffer vil kun få betydning på de lengste veglenkene. 
+Ut fra FME-loggen så har vi fått gyldige data _(http status kode 200, et par hundre bytes lastet ned)_ på alle kall mot nvdb api V2 og V3 `veg` - endepunktet med parameter `veglenkeposisjon=0.63716548 (eller finere) @2179875`. 
 
+```
+ bash$ grep 2179875 Metodefil_Region_MIDT_OldRef_15.log | grep status | grep 0.63716548
+2020-02-13 01:30:48|  18.5|  0.0|INFORM|HTTPCaller_6(HTTPFactory): HTTP transfer summary - status code: 200, download size: '299 bytes', DNS lookup time: '1e-6 seconds', total transfer time: '0 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/veg?veglenke=0.637165484709574%402179875'
+2020-02-13 01:30:48|  18.5|  0.0|INFORM|HTTPCaller_8(HTTPFactory): HTTP transfer summary - status code: 200, download size: '526 bytes', DNS lookup time: '1e-6 seconds', total transfer time: '0.063 seconds', url: 'https://www.vegvesen.no/nvdb/api/v3/veg?veglenkesekvens=0.637165484709574%402179875'
+2020-02-13 01:30:49|  18.5|  0.0|INFORM|HTTPCaller_4(HTTPFactory): HTTP transfer summary - status code: 200, download size: '280 bytes', DNS lookup time: '1e-6 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/veg?veglenke=0.63716548%402179875'
+2020-02-13 01:30:49|  18.5|  0.0|INFORM|HTTPCaller_7(HTTPFactory): HTTP transfer summary - status code: 200, download size: '494 bytes', DNS lookup time: '1e-6 seconds', total transfer time: '0.047 seconds', url: 'https://www.vegvesen.no/nvdb/api/v3/veg?veglenkesekvens=0.63716548%402179875'
+```
+Jeg merker meg at posisjonen Viatech oppgir (`0.63720528`) avviker fra det jeg får manuelt her (`0.63716548, differanse  = 0.0000398`), og som er brukt . Vi pleier regne med 8 siffers presisjon i disse kallene, men i dette tilfellet påvirker ikke dette den returnerte vegsystemreferanse. Avvik på  5. siffer vil kun få betydning på de lengste veglenkene. 
+
+En annen merknad er at det er en del duplikater i metodefil-XML'en som er utgangspunkt for vår analyse. 
 
 # Opppsummering, alle fylker 
 
