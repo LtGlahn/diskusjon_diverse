@@ -22,7 +22,7 @@ Antall feilsituasjoner vi prøvde om igjen med SUKSESS 0 / 488 0 %
 Antall feilsituasjoner som fremdeles feiler 488 / 488 100 %
 ```
 
-### Stusser på angitte veglenkeposisjoner i fil fra Viatech 
+### Gransking av aller første forekomst i feilrapport fra Viatech
 
 Viatech sin fil `data_fylke15viatech/Fylke 15 - GenMethodfileFromCvs20200213_041246.txt` oppsummerer de vegsystemreferansene som mangler i 
 de dataene jeg sendte dem. Her er første oppføring fra fila
