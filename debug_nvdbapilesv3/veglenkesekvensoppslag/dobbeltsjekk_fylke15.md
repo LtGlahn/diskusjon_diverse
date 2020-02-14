@@ -22,6 +22,24 @@ Antall feilsituasjoner vi prøvde om igjen med SUKSESS 0 / 488 0 %
 Antall feilsituasjoner som fremdeles feiler 488 / 488 100 %
 ```
 
+### Stusser på angitte veglenkeposisjoner i fil fra Viatech 
+
+Viatech sin fil `data_fylke15viatech/Fylke 15 - GenMethodfileFromCvs20200213_041246.txt` oppsummerer de vegsystemreferansene som mangler i 
+de dataene jeg har oversett. Jeg får ikke de angitte verdiene til å henge i hop. Her er første oppføring
+```
+Mangler 'ny_vegsystemreferanse_fra' for 0.63720528@2179875, ReflinkOID : 0.63720528@249525 <-> 0.68579931@249525, Org vegRef.: 1500Ev39hp16m0 - 1500Ev39hp16m30
+	ny_vegsystemreferanse_fra, lesAPI :0.63720528@2179875 -> EV39 S30D1 m4834
+``` 
+Oppgitt vegreferanse i "Fra" - posisjon er `1500Ev39hp16m0`, skrevet som visveginfo-syntaks: `1500EV0003900100000`. I FME-loggen finner vi dette kallet til visveginfo: http://visveginfo-static.opentns.org/RoadInfoService/GetRoadReferenceForReference?roadReference=1500EV0003900100000&topologyLevel=Overview&ViewDate=2014-08-12 
+
+Som returnerer posisjon 0 på veglenkesekvens 2212895. **Men jeg ser ikke henvisning til denne veglenkeposisjonen verdien i oppføringen over! Her må vi granske mer. Sjekkpunkter:**
+
+  * [ ] Granske datasett oversendt 13.2 og sjekke hva som stemmer og ikke stemmer med anførte data fra Viatech og dette visveginfo-oppslaget 
+  * [ ] Kjøre FME-rutine, debugge og sjekke hva vi får der for denne oppføringen.  
+  * [ ] ? Se hva annet rart vi finner
+
+Mulige feilkilder: FME workspace, Viatech prosesserering, rot med gamle versjoner av ting og tang. 
+
 # Opppsummering, alle fylker 
 
 Her er for øvrig min nyeste sjekk av de veglenkeoppslagene som feiler i datasettet `data13februar` (gamle vegreferanser fra Viatech som skulle oppfriskes med riktig stedfesting (per angitt dato) og nye 
