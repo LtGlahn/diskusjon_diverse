@@ -45,7 +45,7 @@ Ut fra FME-loggen så har vi fått gyldige data _(http status kode 200, et par h
 2020-02-13 01:30:49|  18.5|  0.0|INFORM|HTTPCaller_4(HTTPFactory): HTTP transfer summary - status code: 200, download size: '280 bytes', DNS lookup time: '1e-6 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/veg?veglenke=0.63716548%402179875'
 2020-02-13 01:30:49|  18.5|  0.0|INFORM|HTTPCaller_7(HTTPFactory): HTTP transfer summary - status code: 200, download size: '494 bytes', DNS lookup time: '1e-6 seconds', total transfer time: '0.047 seconds', url: 'https://www.vegvesen.no/nvdb/api/v3/veg?veglenkesekvens=0.63716548%402179875'
 ```
-Jeg merker meg at posisjonen Viatech oppgir (`0.63720528`) avviker fra det jeg får manuelt her (`0.63716548, differanse  = 0.0000398`), og som er brukt . Vi pleier regne med 8 siffers presisjon i disse kallene, men i dette tilfellet påvirker ikke dette den returnerte vegsystemreferanse. Avvik på  5. siffer vil kun få betydning på de lengste veglenkene. 
+Jeg merker meg at posisjonen Viatech oppgir (`0.63720528`) avviker fra det jeg får manuelt her (`0.63716548`, differanse  = `0.0000398`), og som er brukt i kallene mot tjenesten. Vi pleier regne med 8 siffers presisjon i disse kallene, men i dette tilfellet påvirker ikke dette den returnerte vegsystemreferanse. Avvik på  5. siffer vil kun få betydning på de lengste veglenkene. 
 
 En annen merknad er at det er en del duplikater i metodefil-XML'en som er utgangspunkt for vår analyse. 
 
