@@ -258,7 +258,7 @@ class nvdbVegnett:
 
     def anrope(self, path, parametre=None, debug=False, silent=False): 
     
-        if not self.apiurl in path: 
+        if not 'http' in path: 
             url = ''.join(( self.apiurl, path)) 
         else: 
             url = path 
