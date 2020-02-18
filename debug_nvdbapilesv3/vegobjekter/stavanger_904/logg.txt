@@ -1,0 +1,6 @@
+GODKJENT Søk mot V3 ga 36 gyldige og 0 ugyldige objekter {'kommune': 1103, 'vegsystemreferanse': 'E'}
+GODKJENT Søk mot V3 ga 16 gyldige og 3 ugyldige objekter {'kommune': 1103, 'vegsystemreferanse': 'R'}
+GODKJENT Søk mot V3 ga 253 gyldige og 17 ugyldige objekter {'kommune': 1103, 'vegsystemreferanse': 'F'}
+GODKJENT Søk mot V3 ga 5145 gyldige og 111 ugyldige objekter {'kommune': 1103, 'vegsystemreferanse': 'K'}
+GODKJENT Søk mot V3 ga 197 gyldige og 24 ugyldige objekter {'kommune': 1103, 'vegsystemreferanse': 'P'}
+GODKJENT Søk mot V3 ga 1 gyldige og 0 ugyldige objekter {'kommune': 1103, 'vegsystemreferanse': 'S'}

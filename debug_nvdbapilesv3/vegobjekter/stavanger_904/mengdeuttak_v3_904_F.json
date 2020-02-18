@@ -1,0 +1,4862 @@
+[
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835313353,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835313353/2",
+        "versjon": 2,
+        "startdato": "2017-05-30",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 105,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4568 S1D10 m44 SD1 m0-25,FV4568 S1D10 m44 SD1 m25-62,FV4568 S1D10 m44 SD1 m25-96,FV4568 S1D10 m44 SD1 m62-96",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835321506,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835321506/2",
+        "versjon": 2,
+        "startdato": "2017-06-02",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 84,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4608 S1D20 m0-110",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835321507,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835321507/2",
+        "versjon": 2,
+        "startdato": "2017-06-02",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 24,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4608 S1D10 m98-124",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835321508,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835321508/2",
+        "versjon": 2,
+        "startdato": "2017-06-02",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 63,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4608 S1D10 m16-98",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835321509,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835321509/2",
+        "versjon": 2,
+        "startdato": "2017-06-02",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 18,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4608 S1D10 m0-16",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835325272,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835325272/2",
+        "versjon": 2,
+        "startdato": "2013-12-10",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 21,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4534 S1D1 m1425-1458",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835328345,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835328345/2",
+        "versjon": 2,
+        "startdato": "2011-01-01",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 63,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV510 S4D170 m1015-1066",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.06860817999999999,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835342903,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835342903/2",
+        "versjon": 2,
+        "startdato": "2013-01-01",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 309,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4534 S2D1 m1542-1643,FV4534 S2D1 m1535-1542,FV4534 S2D1 m1643-1739,FV4534 S2D1 m1248-1535",
+        "stedfesting_antall": 4,
+        "stedfesting_utbredelse": 3.13366854,
+        "stedfesting_unikeid": 4
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835346302,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835346302/2",
+        "versjon": 2,
+        "startdato": "2008-01-30",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 1668,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4684 S1D1 m9891-10365,FV4684 S1D1 m7261-9891",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 1.26679591,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835346303,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835346303/1",
+        "versjon": 1,
+        "startdato": "1998-01-01",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 1986,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4684 S1D1 m0-3751",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.37911845,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835346341,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835346341/2",
+        "versjon": 2,
+        "startdato": "2008-01-30",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 387,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4686 S1D20 m3-1369",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.99813927,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835346343,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835346343/1",
+        "versjon": 1,
+        "startdato": "1998-01-01",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 627,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4622 S1D1 m915-3137",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.70977957,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835346544,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835346544/2",
+        "versjon": 2,
+        "startdato": "2010-07-02",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 420,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4536 S2D1 m426-454,FV4536 S2D1 m502-533,FV4536 S2D1 m533-561,FV4536 S2D1 m454-502,FV4536 S2D1 m0-392,FV4536 S2D1 m584-915,FV4536 S2D1 m561-584,FV4536 S2D1 m915-960,FV4536 S2D1 m392-426",
+        "stedfesting_antall": 5,
+        "stedfesting_utbredelse": 3.51582876,
+        "stedfesting_unikeid": 4
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835346588,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835346588/1",
+        "versjon": 1,
+        "startdato": "1998-01-01",
+        "geometri": false,
+        "geometritype": "",
+        "wkt_punkt": 0,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "",
+        "vref": "",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.97847531,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835346978,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835346978/3",
+        "versjon": 3,
+        "startdato": "2016-01-20",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 9,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4690 S1D1 m173-177",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.01892952,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835346979,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835346979/2",
+        "versjon": 2,
+        "startdato": "2008-01-30",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 9,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4686 S1D20 m0-3",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.00186073,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347137,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347137/2",
+        "versjon": 2,
+        "startdato": "2011-11-28",
+        "geometri": false,
+        "geometritype": "",
+        "wkt_punkt": 0,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "",
+        "vref": "",
+        "stedfesting_antall": 5,
+        "stedfesting_utbredelse": 3.3645034399999996,
+        "stedfesting_unikeid": 5
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347138,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347138/1",
+        "versjon": 1,
+        "startdato": "1998-01-01",
+        "geometri": false,
+        "geometritype": "",
+        "wkt_punkt": 0,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "",
+        "vref": "",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.02152469,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347162,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347162/2",
+        "versjon": 2,
+        "startdato": "2017-03-16",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 84,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S14D420 m124 KD1 m0-57",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347165,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347165/2",
+        "versjon": 2,
+        "startdato": "2017-05-30",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 75,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S14D410 m740 KD1 m15-50",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.70385942,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347167,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347167/1",
+        "versjon": 1,
+        "startdato": "1998-01-01",
+        "geometri": false,
+        "geometritype": "",
+        "wkt_punkt": 0,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "",
+        "vref": "",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347168,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347168/1",
+        "versjon": 1,
+        "startdato": "2005-07-01",
+        "geometri": false,
+        "geometritype": "",
+        "wkt_punkt": 0,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "",
+        "vref": "",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347170,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347170/1",
+        "versjon": 1,
+        "startdato": "1998-01-01",
+        "geometri": false,
+        "geometritype": "",
+        "wkt_punkt": 0,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "",
+        "vref": "",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347171,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347171/1",
+        "versjon": 1,
+        "startdato": "2005-07-01",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 72,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4548 S1D1 m3763 KD1 m0-31",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347172,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347172/2",
+        "versjon": 2,
+        "startdato": "2009-07-01",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 24,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4548 S1D1 m3763-3794",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.89194792,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347173,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347173/1",
+        "versjon": 1,
+        "startdato": "1998-01-01",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 474,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4548 S1D1 m2495-2629,FV4548 S1D1 m2629-3654,FV4548 S1D1 m3654-3712,FV4548 S1D1 m3712-3737,FV4548 S1D1 m3737-3763",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347174,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347174/1",
+        "versjon": 1,
+        "startdato": "2005-07-01",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 96,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4548 S1D1 m2495 KD1 m0-48",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347176,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347176/1",
+        "versjon": 1,
+        "startdato": "1998-01-01",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 354,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4548 S1D1 m1691-1797,FV4548 S1D1 m1797-2471,FV4548 S1D1 m2471-2495",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347177,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347177/1",
+        "versjon": 1,
+        "startdato": "2005-07-01",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 93,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4548 S1D1 m1691 KD1 m0-36",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347179,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347179/1",
+        "versjon": 1,
+        "startdato": "1998-01-01",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 204,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4548 S1D1 m1245-1691",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347180,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347180/1",
+        "versjon": 1,
+        "startdato": "2005-07-01",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 153,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4548 S1D1 m1245 KD1 m0-63",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347182,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347182/1",
+        "versjon": 1,
+        "startdato": "1998-01-01",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 462,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4548 S1D1 m72-98,FV4548 S1D1 m98-534,FV4548 S1D1 m534-719,FV4548 S1D1 m719-1171,FV4548 S1D1 m1171-1245",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347183,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347183/1",
+        "versjon": 1,
+        "startdato": "2005-07-01",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 84,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4548 S1D1 m72 KD1 m0-40",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347185,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347185/1",
+        "versjon": 1,
+        "startdato": "1998-01-01",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 54,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4548 S1D1 m0-72",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347218,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347218/2",
+        "versjon": 2,
+        "startdato": "2017-05-30",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 111,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S14D410 m950 KD1 m0-60",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347220,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347220/2",
+        "versjon": 2,
+        "startdato": "2017-05-30",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 33,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S14D410 m740 KD1 m0-15",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.29614058,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347228,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347228/2",
+        "versjon": 2,
+        "startdato": "2008-01-30",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 9,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4686 S1D10 m0-3",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.00232722,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347231,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347231/1",
+        "versjon": 1,
+        "startdato": "1998-01-01",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 5685,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4628 S1D1 m0-4,FV4628 S1D1 m4-15,FV4628 S1D1 m15-26,FV4628 S1D1 m26-131,FV4628 S1D1 m131-194,FV4628 S1D1 m194-311,FV4628 S1D1 m311-409,FV4628 S1D1 m409-501,FV4628 S1D1 m501-722,FV4628 S1D1 m722-832,FV4628 S1D1 m832-995,FV4628 S1D1 m995-1449,FV4628 S1D1 m1449-1815,FV4628 S1D1 m1815-1894,FV4628 S1D1 m1894-2089,FV4628 S1D1 m2089-2260,FV4628 S1D1 m2260-2273,FV4628 S1D1 m2273-2537,FV4628 S1D1 m2537-2588,FV4628 S1D1 m2588-2611,FV4628 S1D1 m2611-2719,FV4628 S1D1 m2719-2760,FV4628 S1D1 m2760-2905,FV4628 S1D1 m2905-3002,FV4628 S1D1 m3002-3061,FV4628 S1D1 m3061-3086,FV4628 S1D1 m3086-3241,FV4628 S1D1 m3241-3411,FV4628 S1D1 m3411-3430,FV4628 S1D1 m3430-3551,FV4628 S1D1 m3551-3563,FV4628 S1D1 m9878-10075,FV4628 S1D1 m3563-3724,FV4628 S1D1 m10075-10112,FV4628 S1D1 m3724-3970,FV4628 S1D1 m3970-4092,FV4628 S1D1 m4092-4263,FV4628 S1D1 m4263-4273,FV4628 S1D1 m4273-4335,FV4628 S1D1 m4335-4552,FV4628 S1D1 m4552-4625,FV4628 S1D1 m4625-4786,FV4628 S1D1 m10112-10184,FV4628 S1D1 m4786-5222,FV4628 S1D1 m10184-10211,FV4628 S1D1 m5222-5638,FV4628 S1D1 m5638-6047,FV4628 S1D1 m10211-10269,FV4628 S1D1 m6047-6291,FV4628 S1D1 m6291-6601,FV4628 S1D1 m6601-6682,FV4628 S1D1 m6682-6905,FV4628 S1D1 m6905-7134,FV4628 S1D1 m10269-10347,FV4628 S1D1 m7134-7453,FV4628 S1D1 m7453-7664,FV4628 S1D1 m7664-7762,FV4628 S1D1 m10347-10375,FV4628 S1D1 m7762-7930,FV4628 S1D1 m7930-8064,FV4628 S1D1 m8064-8135,FV4628 S1D1 m10375-10399,FV4628 S1D1 m8135-8524,FV4628 S1D1 m8524-8561,FV4628 S1D1 m8561-8809,FV4628 S1D1 m8809-8836,FV4628 S1D1 m8836-8969,FV4628 S1D1 m8969-9008,FV4628 S1D1 m9008-9164,FV4628 S1D1 m9164-9569,FV4628 S1D1 m9569-9613,FV4628 S1D1 m9613-9631,FV4628 S1D1 m10399-10486,FV4628 S1D1 m9631-9757,FV4628 S1D1 m10486-10492,FV4628 S1D1 m9757-9816,FV4628 S1D1 m10492-10499,FV4628 S1D1 m9816-9878",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 2.0,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347590,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347590/1",
+        "versjon": 1,
+        "startdato": "2004-04-01",
+        "geometri": false,
+        "geometritype": "",
+        "wkt_punkt": 0,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "",
+        "vref": "",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347591,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347591/1",
+        "versjon": 1,
+        "startdato": "2004-04-01",
+        "geometri": false,
+        "geometritype": "",
+        "wkt_punkt": 0,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "",
+        "vref": "",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.2581103,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347593,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347593/1",
+        "versjon": 1,
+        "startdato": "2004-04-01",
+        "geometri": false,
+        "geometritype": "",
+        "wkt_punkt": 0,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "",
+        "vref": "",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347617,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347617/5",
+        "versjon": 5,
+        "startdato": "2017-05-30",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 75,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4628 S1D1 m10499-10640",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.05988436999999991,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347621,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347621/2",
+        "versjon": 2,
+        "startdato": "2016-09-23",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 549,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4690 S1D1 m8803-10302",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.43670389,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347627,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347627/1",
+        "versjon": 1,
+        "startdato": "2003-05-26",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 90,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4536 S2D1 m426 KD1 m0-72",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347645,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347645/2",
+        "versjon": 2,
+        "startdato": "2017-06-02",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 72,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4612 S1D1 m1392 KD1 m0-50,FV4612 S1D1 m1392 KD1 m0-39,FV4612 S1D1 m1392 KD1 m39-50",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347646,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347646/2",
+        "versjon": 2,
+        "startdato": "2017-06-02",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 2556,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4612 S1D1 m1392-1418,FV4612 S1D1 m1418-6615",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.79734351,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347647,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347647/2",
+        "versjon": 2,
+        "startdato": "2017-06-02",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 591,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4612 S1D1 m0-30,FV4612 S1D1 m30-1361,FV4612 S1D1 m1361-1392",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835347675,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835347675/2",
+        "versjon": 2,
+        "startdato": "2016-09-23",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 150,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV519 S1D1 m14472 KD1 m0-57",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835348422,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835348422/4",
+        "versjon": 4,
+        "startdato": "2013-07-12",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 6,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV510 S4D150 m1200-1212",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 0.42123459999999996,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835348646,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835348646/1",
+        "versjon": 1,
+        "startdato": "2001-05-22",
+        "geometri": false,
+        "geometritype": "",
+        "wkt_punkt": 0,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "",
+        "vref": "",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 1.9399814,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835348680,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835348680/1",
+        "versjon": 1,
+        "startdato": "2008-01-30",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 1872,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4684 S1D1 m3751-7261",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.35408564,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835348681,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835348681/1",
+        "versjon": 1,
+        "startdato": "2008-01-30",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 465,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4686 S1D1 m0-2288",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.62419754,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835348682,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835348682/1",
+        "versjon": 1,
+        "startdato": "2008-01-30",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 327,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4686 S1D1 m2288-3659",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.37580245999999995,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835348683,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835348683/1",
+        "versjon": 1,
+        "startdato": "2008-01-30",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 315,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4686 S1D10 m3-1291",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.99767278,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835348684,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835348684/2",
+        "versjon": 2,
+        "startdato": "2016-01-20",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 39,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4690 S1D1 m0-173",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.98107048,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835348944,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835348944/2",
+        "versjon": 2,
+        "startdato": "2016-11-09",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 555,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S14D150 m27-176,FV44 S14D150 m176-340",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 1.6882905099999999,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835349113,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835349113/1",
+        "versjon": 1,
+        "startdato": "2011-04-26",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 159,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4536 S2D1 m533 KD1 m0-71",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835349119,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835349119/2",
+        "versjon": 2,
+        "startdato": "2016-09-23",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 111,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV519 S1D1 m4393 KD1 m0-78",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835349297,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835349297/1",
+        "versjon": 1,
+        "startdato": "2011-07-21",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 285,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4624 S1D10 m32-43,FV4624 S1D10 m0-32,FV4624 S1D10 m43-153,FV4624 S1D10 m153-555",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 1.52764654,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835349317,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835349317/1",
+        "versjon": 1,
+        "startdato": "2015-03-06",
+        "geometri": false,
+        "geometritype": "",
+        "wkt_punkt": 0,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "",
+        "vref": "",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835349657,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835349657/1",
+        "versjon": 1,
+        "startdato": "2014-03-04",
+        "geometri": false,
+        "geometritype": "",
+        "wkt_punkt": 0,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "",
+        "vref": "",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.0550038,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835349806,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835349806/1",
+        "versjon": 1,
+        "startdato": "2013-11-08",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 1611,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4588 S1D1 m0-27,FV4588 S1D1 m27-2436,FV4588 S2D1 m60-98",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 1.9455513199999999,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835349818,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835349818/2",
+        "versjon": 2,
+        "startdato": "2017-06-02",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 18,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4608 S1D30 m0-57",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835350676,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835350676/1",
+        "versjon": 1,
+        "startdato": "2016-09-23",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 6984,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV519 S1D1 m0-31,FV519 S1D1 m4360-4393,FV519 S1D1 m4393-4423,FV519 S1D1 m4959-6684,FV519 S1D1 m6841-7076,FV519 S1D1 m10765-11155,FV519 S1D1 m14472-14499,FV519 S1D1 m31-4360,FV519 S1D1 m14499-16643,FV519 S1D1 m4423-4959,FV519 S1D1 m7076-10765,FV519 S1D1 m11155-14454,FV519 S1D1 m6684-6841,FV519 S1D1 m14454-14472",
+        "stedfesting_antall": 8,
+        "stedfesting_utbredelse": 7.70465051,
+        "stedfesting_unikeid": 8
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835350677,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835350677/2",
+        "versjon": 2,
+        "startdato": "2016-09-23",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 738,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4690 S2D1 m1926-1929,FV4690 S2D1 m1782-1926,FV4690 S2D1 m1613-1782,FV4690 S2D1 m1402-1613,FV4690 S2D1 m988-1402,FV4690 S2D1 m931-988,FV4690 S2D1 m633-931,FV4690 S2D1 m0-633",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.56329611,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835350678,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835350678/1",
+        "versjon": 1,
+        "startdato": "2016-09-23",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 663,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4690 S1D1 m4999-8803,FV4690 S1D1 m4915-4999",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 0.43222779,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835351409,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835351409/1",
+        "versjon": 1,
+        "startdato": "2015-11-10",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 27,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4534 S2D1 m1150-1248",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.08709975999999997,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835352707,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835352707/2",
+        "versjon": 2,
+        "startdato": "2016-09-23",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 57,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV519 S1D1 m69 SD1 m0-63,FV519 S1D1 m69 SD1 m63-66",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 844701642,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/844701642/4",
+        "versjon": 4,
+        "startdato": "2017-11-02",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 117,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV510 S4D1 m5056 KD1 m0-32,FV510 S4D1 m5056 KD1 m0-12,FV510 S4D1 m5056 KD1 m12-32",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 844701643,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/844701643/4",
+        "versjon": 4,
+        "startdato": "2017-11-02",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 126,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV510 S4D1 m5056-5191",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 844701644,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/844701644/4",
+        "versjon": 4,
+        "startdato": "2017-11-02",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 102,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV510 S4D1 m4906-5056",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 844701645,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/844701645/4",
+        "versjon": 4,
+        "startdato": "2017-11-02",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 111,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV510 S4D1 m4906 KD1 m0-70,FV510 S4D1 m4906 KD1 m0-46,FV510 S4D1 m4906 KD1 m46-70",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 844701646,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/844701646/5",
+        "versjon": 5,
+        "startdato": "2017-11-02",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 840,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV510 S4D1 m3447-4820,FV510 S4D1 m4820-4906",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.82078962,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 850325928,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/850325928/5",
+        "versjon": 5,
+        "startdato": "2018-01-19",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 201,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4688 S1D1 m0-10,FV4688 S1D1 m10-25,FV4688 S1D1 m25-34,FV4688 S1D1 m196-244,FV4688 S1D1 m244-246,FV4688 S1D1 m34-81,FV4688 S1D1 m81-181,FV4688 S1D1 m181-196,FV4688 S1D1 m53 SD1 m0-80",
+        "stedfesting_antall": 3,
+        "stedfesting_utbredelse": 2.03611173,
+        "stedfesting_unikeid": 3
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 850326046,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/850326046/1",
+        "versjon": 1,
+        "startdato": "2013-12-10",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 144,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4534 S1D1 m921-1169",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 906381741,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/906381741/1",
+        "versjon": 1,
+        "startdato": "1980-01-01",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 90,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV519 S1D1 m1340 SD1 m0-25,FV519 S1D1 m1340 SD1 m25-58,FV519 S1D1 m1340 SD1 m58-82",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 906381938,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/906381938/1",
+        "versjon": 1,
+        "startdato": "2005-01-01",
+        "geometri": false,
+        "geometritype": "",
+        "wkt_punkt": 0,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "",
+        "vref": "",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.21668153999999995,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 906382073,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/906382073/1",
+        "versjon": 1,
+        "startdato": "1998-01-01",
+        "geometri": false,
+        "geometritype": "",
+        "wkt_punkt": 0,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "",
+        "vref": "",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 906382119,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/906382119/1",
+        "versjon": 1,
+        "startdato": "2004-04-01",
+        "geometri": false,
+        "geometritype": "",
+        "wkt_punkt": 0,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "",
+        "vref": "",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.71540138,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 906382124,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/906382124/3",
+        "versjon": 3,
+        "startdato": "2018-08-07",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 150,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4624 S1D1 m2123 KD1 m0-51",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 906382125,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/906382125/3",
+        "versjon": 3,
+        "startdato": "2018-08-07",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 3324,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4624 S1D1 m0-54,FV4624 S1D1 m2123-4857,FV4624 S1D1 m54-1811,FV4624 S1D1 m1811-2123",
+        "stedfesting_antall": 3,
+        "stedfesting_utbredelse": 2.3141808,
+        "stedfesting_unikeid": 3
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 906382126,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/906382126/3",
+        "versjon": 3,
+        "startdato": "2009-10-30",
+        "geometri": false,
+        "geometritype": "",
+        "wkt_punkt": 0,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "",
+        "vref": "",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 1.00589721,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 906382166,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/906382166/1",
+        "versjon": 1,
+        "startdato": "2018-07-25",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 318,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV519 S1D20 m0-41,FV519 S1D20 m41-301,FV519 S1D20 m301-386,FV519 S1D20 m386-619,FV519 S1D20 m619-633",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 1.0666479899999999,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 919440697,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/919440697/1",
+        "versjon": 1,
+        "startdato": "1980-01-01",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 288,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4534 S2D1 m345-376,FV4534 S2D1 m462-996,FV4534 S2D1 m376-462,FV4534 S2D1 m996-1141,FV4534 S2D1 m1141-1150",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 1.9344359500000001,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 919441277,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/919441277/1",
+        "versjon": 1,
+        "startdato": "2019-03-08",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 111,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4534 S2D1 m0-345",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 924656729,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/924656729/3",
+        "versjon": 3,
+        "startdato": "2019-02-01",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 393,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S14D410 m0-6,FV44 S14D410 m740-950,FV44 S14D410 m950-1031,FV44 S14D410 m1031-1108,FV44 S14D410 m6-41,FV44 S14D410 m41-614,FV44 S14D410 m614-740",
+        "stedfesting_antall": 4,
+        "stedfesting_utbredelse": 3.50437238,
+        "stedfesting_unikeid": 4
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980500867,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980500867/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 18,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4584 S1D1 m4634 SD1 m63-81",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.08640401,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980500886,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980500886/3",
+        "versjon": 3,
+        "startdato": "2019-10-31",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 705,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4608 S2D1 m2367-2371,FV4608 S2D1 m2352-2367,FV4608 S2D1 m0-2317,FV4608 S2D1 m2317-2352",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 1.32454321,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501103,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501103/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 183,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4538 S1D1 m92-109,FV4538 S1D1 m109-440,FV4538 S1D1 m440-465",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501104,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501104/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 84,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4538 S1D1 m92 KD1 m0-55",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501105,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501105/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 63,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4538 S1D1 m0-21,FV4538 S1D1 m21-69,FV4538 S1D1 m69-92",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501106,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501106/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 84,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4570 S1D1 m3018 KD1 m0-33",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501107,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501107/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 102,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4570 S1D1 m3018-3063,FV4570 S1D1 m3063-3174,FV4570 S1D1 m3174-3288",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501108,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501108/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 807,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4570 S1D1 m1606-1622,FV4570 S1D1 m1622-2713,FV4570 S1D1 m2713-2867,FV4570 S1D1 m2867-2992,FV4570 S1D1 m2992-3018",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501109,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501109/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 105,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4570 S1D1 m1606 KD1 m0-44",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501110,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501110/3",
+        "versjon": 3,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 402,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4570 S1D1 m1040-1587,FV4570 S1D1 m1587-1606",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.731247,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501111,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501111/3",
+        "versjon": 3,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 825,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4570 S1D1 m0-21,FV4570 S1D1 m804-875,FV4570 S1D1 m875-939,FV4570 S1D1 m21-44,FV4570 S1D1 m44-256,FV4570 S1D1 m256-346,FV4570 S1D1 m346-804,FV4570 S1D1 m939-1040",
+        "stedfesting_antall": 3,
+        "stedfesting_utbredelse": 2.95248079,
+        "stedfesting_unikeid": 3
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501112,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501112/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 84,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4580 S1D1 m329 KD1 m0-26",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501113,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501113/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 72,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4580 S1D1 m329-385,FV4580 S1D1 m385-407",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501114,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501114/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 108,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4580 S1D1 m202-329",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501115,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501115/3",
+        "versjon": 3,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 171,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4526 S2D1 m1639-1698,FV4526 S2D1 m1738-1894,FV4526 S2D1 m1698-1738",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 0.6667027999999999,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501116,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501116/3",
+        "versjon": 3,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 354,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4526 S2D1 m1024-1118,FV4526 S2D1 m1237-1286,FV4526 S2D1 m1286-1346,FV4526 S2D1 m1346-1465,FV4526 S2D1 m1465-1560,FV4526 S2D1 m1560-1639,FV4526 S2D1 m1118-1237",
+        "stedfesting_antall": 6,
+        "stedfesting_utbredelse": 5.66045611,
+        "stedfesting_unikeid": 6
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501117,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501117/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 168,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4526 S2D1 m1024 KD1 m0-93",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501118,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501118/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 36,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4526 S2D1 m964-1024",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501119,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501119/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 96,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4526 S2D1 m964 KD1 m0-60",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501120,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501120/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 87,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4526 S2D1 m740-794,FV4526 S2D1 m794-931,FV4526 S2D1 m931-964",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501121,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501121/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 87,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4526 S2D1 m740 KD1 m0-58",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501122,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501122/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 102,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4526 S2D1 m495-528,FV4526 S2D1 m528-627,FV4526 S2D1 m627-740",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501123,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501123/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 84,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4526 S2D1 m495 KD1 m0-58",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501192,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501192/4",
+        "versjon": 4,
+        "startdato": "2019-07-08",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 120,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S12D50 m1584 KD1 m0-55",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501217,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501217/2",
+        "versjon": 2,
+        "startdato": "2019-07-16",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 984,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4690 S1D10 m0-3823",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.42503917,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501222,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501222/2",
+        "versjon": 2,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 102,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4568 S1D1 m199 KD1 m0-61,FV4568 S1D1 m199 KD1 m0-42,FV4568 S1D1 m199 KD1 m42-61",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501223,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501223/3",
+        "versjon": 3,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 81,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4568 S1D1 m0-199",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501224,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501224/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 78,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4538 S1D1 m2909 KD1 m0-35",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501225,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501225/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 27,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4538 S1D1 m2909-2945",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501226,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501226/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 1047,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4538 S1D1 m465-491,FV4538 S1D1 m491-2886,FV4538 S1D1 m2886-2909",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501227,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501227/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 138,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4538 S1D1 m465 KD1 m0-55",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501272,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501272/3",
+        "versjon": 3,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 552,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4688 S1D1 m246-1337",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.82158176,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501273,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501273/4",
+        "versjon": 4,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 6657,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4688 S1D1 m3290-3347,FV4688 S1D1 m3279-3290,FV4688 S1D1 m3225-3279,FV4688 S1D1 m6792-6868,FV4688 S1D1 m4748-4943,FV4688 S1D1 m2976-3225,FV4688 S1D1 m2936-2976,FV4688 S1D1 m2886-2936,FV4688 S1D1 m4510-4748,FV4688 S1D1 m2797-2886,FV4688 S1D1 m5086-5480,FV4688 S1D1 m5058-5086,FV4688 S1D1 m4411-4510,FV4688 S1D1 m9803-9927,FV4688 S1D1 m9728-9803,FV4688 S1D1 m6597-6792,FV4688 S1D1 m4943-5058,FV4688 S1D1 m9635-9728,FV4688 S1D1 m9579-9635,FV4688 S1D1 m9534-9579,FV4688 S1D1 m9273-9534,FV4688 S1D1 m6557-6597,FV4688 S1D1 m9090-9273,FV4688 S1D1 m4139-4411,FV4688 S1D1 m9046-9090,FV4688 S1D1 m8930-9046,FV4688 S1D1 m4100-4139,FV4688 S1D1 m4093-4100,FV4688 S1D1 m8875-8930,FV4688 S1D1 m8693-8875,FV4688 S1D1 m8654-8693,FV4688 S1D1 m8480-8654,FV4688 S1D1 m2162-2797,FV4688 S1D1 m8371-8480,FV4688 S1D1 m8290-8371,FV4688 S1D1 m2107-2162,FV4688 S1D1 m8150-8290,FV4688 S1D1 m8094-8150,FV4688 S1D1 m7975-8094,FV4688 S1D1 m2031-2107,FV4688 S1D1 m2028-2031,FV4688 S1D1 m7864-7975,FV4688 S1D1 m7829-7864,FV4688 S1D1 m7751-7829,FV4688 S1D1 m7689-7751,FV4688 S1D1 m1944-2028,FV4688 S1D1 m7498-7689,FV4688 S1D1 m7367-7498,FV4688 S1D1 m7363-7367,FV4688 S1D1 m7258-7363,FV4688 S1D1 m3749-4093,FV4688 S1D1 m7165-7258,FV4688 S1D1 m6998-7165,FV4688 S1D1 m6992-6998,FV4688 S1D1 m1767-1944,FV4688 S1D1 m6868-6992,FV4688 S1D1 m1685-1767,FV4688 S1D1 m1601-1685,FV4688 S1D1 m1560-1601,FV4688 S1D1 m3480-3749,FV4688 S1D1 m5965-6215,FV4688 S1D1 m6255-6557,FV4688 S1D1 m5721-5965,FV4688 S1D1 m1387-1560,FV4688 S1D1 m5596-5721,FV4688 S1D1 m5586-5596,FV4688 S1D1 m5569-5586,FV4688 S1D1 m1343-1387,FV4688 S1D1 m5500-5569,FV4688 S1D1 m1337-1343,FV4688 S1D1 m3347-3480,FV4688 S1D1 m5480-5500,FV4688 S1D1 m6215-6255,FV4688 S2D1 m2321-2809,FV4688 S2D1 m2178-2321,FV4688 S2D1 m718-2178,FV4688 S2D1 m631-718,FV4688 S2D1 m0-631",
+        "stedfesting_antall": 6,
+        "stedfesting_utbredelse": 4.3068718299999995,
+        "stedfesting_unikeid": 5
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501274,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501274/2",
+        "versjon": 2,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 390,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4612 S1D1 m6615-7399",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.11983851999999995,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501287,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501287/4",
+        "versjon": 4,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 1743,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4540 S2D1 m2172-2223,FV4540 S2D1 m2223-2387,FV4540 S2D1 m2387-2408,FV4540 S2D1 m0-85,FV4540 S2D1 m85-301,FV4540 S2D1 m301-1335,FV4540 S2D1 m1335-1398,FV4540 S2D1 m1398-2172",
+        "stedfesting_antall": 4,
+        "stedfesting_utbredelse": 3.29059008,
+        "stedfesting_unikeid": 4
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501289,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501289/3",
+        "versjon": 3,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 894,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4544 S1D1 m0-33,FV4544 S1D1 m46-99,FV4544 S1D1 m130-160,FV4544 S1D1 m33-46,FV4544 S1D1 m254-512,FV4544 S1D1 m160-254,FV4544 S1D1 m512-668,FV4544 S1D1 m668-941,FV4544 S1D1 m941-1089,FV4544 S1D1 m99-130",
+        "stedfesting_antall": 4,
+        "stedfesting_utbredelse": 2.5348478,
+        "stedfesting_unikeid": 3
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501295,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501295/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 75,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4568 S1D10 m0-7,FV4568 S1D10 m7-137",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501308,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501308/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 1656,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4558 S1D1 m0-2636,FV4558 S1D1 m2636-2659",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501310,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501310/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 375,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4578 S1D1 m0-859,FV4578 S1D1 m859-869",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501311,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501311/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 228,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4576 S1D1 m18-55,FV4576 S1D1 m55-755",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501312,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501312/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 495,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4572 S1D1 m2002-2744,FV4572 S1D1 m2744-2895,FV4572 S1D1 m2895-3225,FV4572 S1D1 m3225-3272",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501313,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501313/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 564,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4574 S1D1 m0-32,FV4574 S1D1 m32-711",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501314,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501314/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 318,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4582 S1D1 m0-21,FV4582 S1D1 m21-565,FV4582 S1D1 m565-585",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501315,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501315/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 630,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4546 S1D1 m605-2305",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.73716347,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501322,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501322/3",
+        "versjon": 3,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 36,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4612 S1D20 m0-121",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501401,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501401/2",
+        "versjon": 2,
+        "startdato": "2019-07-16",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 69,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4690 S1D10 m3823-3982,FV4690 S1D10 m3982-4050",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501402,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501402/3",
+        "versjon": 3,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 2832,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4688 S2D1 m2809-6978,FV4688 S2D10 m50-59,FV4688 S2D10 m11-50,FV4688 S2D10 m0-11,FV4688 S2D1 m2827 SD1 m0-73",
+        "stedfesting_antall": 3,
+        "stedfesting_utbredelse": 2.00820599,
+        "stedfesting_unikeid": 3
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501404,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501404/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 33,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4526 S2D1 m449-495",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501405,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501405/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 78,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4526 S2D1 m449 KD1 m0-56",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501406,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501406/3",
+        "versjon": 3,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 396,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4526 S2D1 m0-45,FV4526 S2D1 m166-208,FV4526 S2D1 m208-250,FV4526 S2D1 m45-166,FV4526 S2D1 m250-416,FV4526 S2D1 m416-449,FV4526 S2D1 m208 KD1 m0-69",
+        "stedfesting_antall": 5,
+        "stedfesting_utbredelse": 3.77794954,
+        "stedfesting_unikeid": 4
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501407,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501407/2",
+        "versjon": 2,
+        "startdato": "2019-07-08",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 39,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S12D1 m2042 KD1 m59-92",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.45488363,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501408,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501408/4",
+        "versjon": 4,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 267,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4526 S1D1 m0-52,FV4526 S1D1 m141-194,FV4526 S1D1 m194-344,FV4526 S1D1 m52-141,FV4526 S1D1 m344-361",
+        "stedfesting_antall": 5,
+        "stedfesting_utbredelse": 3.26369647,
+        "stedfesting_unikeid": 4
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501413,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501413/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 96,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4566 S1D1 m2152 KD1 m0-50",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501414,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501414/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 141,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4566 S1D1 m1382 KD1 m0-50",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501415,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501415/8",
+        "versjon": 8,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 5994,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4566 S1D1 m0-20,FV4566 S1D1 m1382-1414,FV4566 S1D1 m2152-2195,FV4566 S1D1 m3100-3151,FV4566 S1D1 m3177-3359,FV4566 S1D1 m3359-3472,FV4566 S1D1 m3477-3492,FV4566 S1D1 m5017-5042,FV4566 S1D1 m5168-5270,FV4566 S1D1 m5297-5327,FV4566 S1D1 m5724-5750,FV4566 S1D1 m6495-6519,FV4566 S1D1 m7801-7839,FV4566 S1D1 m7839-7851,FV4566 S1D1 m3492-3932,FV4566 S1D1 m6519-6806,FV4566 S1D1 m1414-2105,FV4566 S1D1 m20-270,FV4566 S1D1 m5042-5168,FV4566 S1D1 m2195-2425,FV4566 S1D1 m5750-6472,FV4566 S1D1 m7936-7940,FV4566 S1D1 m5327-5566,FV4566 S1D1 m270-1382,FV4566 S1D1 m6806-6937,FV4566 S1D1 m2425-2541,FV4566 S1D1 m7914-7936,FV4566 S1D1 m6937-7097,FV4566 S1D1 m2541-3100,FV4566 S1D1 m4044-4988,FV4566 S1D1 m7097-7231,FV4566 S1D1 m7231-7405,FV4566 S1D1 m3151-3177,FV4566 S1D1 m7559-7801,FV4566 S1D1 m5566-5685,FV4566 S1D1 m5270-5297,FV4566 S1D1 m2105-2152,FV4566 S1D1 m3472-3477,FV4566 S1D1 m5685-5724,FV4566 S1D1 m6472-6495,FV4566 S1D1 m4988-5017,FV4566 S1D1 m7851-7914,FV4566 S1D1 m3177 KD1 m0-95,FV4566 S1D1 m3359 KD1 m0-70,FV4566 S1D1 m5297 KD1 m0-79",
+        "stedfesting_antall": 22,
+        "stedfesting_utbredelse": 16.070569510000002,
+        "stedfesting_unikeid": 19
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501416,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501416/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 96,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4564 S1D1 m2162 KD1 m0-55,FV4564 S1D1 m2162 KD1 m0-14,FV4564 S1D1 m2162 KD1 m14-55",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501417,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501417/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 216,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4564 S1D1 m2162-2477",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501418,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501418/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 264,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4564 S1D1 m1798-1815,FV4564 S1D1 m1815-2126,FV4564 S1D1 m2126-2162",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501419,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501419/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 78,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4564 S1D1 m1798 KD1 m0-37",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501420,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501420/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 123,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4564 S1D1 m1652-1688,FV4564 S1D1 m1688-1781,FV4564 S1D1 m1781-1798",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501421,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501421/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 87,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4564 S1D1 m1652 KD1 m0-52,FV4564 S1D1 m1652 KD1 m0-12,FV4564 S1D1 m1652 KD1 m12-52",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501422,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501422/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 537,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4564 S1D1 m305-344,FV4564 S1D1 m344-1619,FV4564 S1D1 m1619-1652",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501423,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501423/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 111,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4564 S1D1 m305 KD1 m0-55,FV4564 S1D1 m305 KD1 m0-23,FV4564 S1D1 m305 KD1 m23-55",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501424,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501424/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 207,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4564 S1D1 m0-25,FV4564 S1D1 m25-179,FV4564 S1D1 m179-213,FV4564 S1D1 m213-305",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501425,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501425/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 111,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4572 S1D1 m754 KD1 m0-35",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501426,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501426/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 465,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4572 S1D1 m754-774,FV4572 S1D1 m774-2002",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501427,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501427/3",
+        "versjon": 3,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 369,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4572 S1D1 m0-6,FV4572 S1D1 m60-432,FV4572 S1D1 m6-60,FV4572 S1D1 m432-470,FV4572 S1D1 m470-726,FV4572 S1D1 m726-754",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 1.91954354,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501428,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501428/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 111,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4586 S1D1 m721 KD1 m0-53",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501429,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501429/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 567,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4586 S1D1 m721-750,FV4586 S1D1 m750-1042,FV4586 S1D1 m1042-1156,FV4586 S1D1 m1156-1436",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501430,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501430/3",
+        "versjon": 3,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 564,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4586 S1D1 m0-77,FV4586 S1D1 m246-271,FV4586 S1D1 m271-292,FV4586 S1D1 m424-452,FV4586 S1D1 m77-246,FV4586 S1D1 m292-402,FV4586 S1D1 m452-689,FV4586 S1D1 m402-424,FV4586 S1D1 m689-721",
+        "stedfesting_antall": 5,
+        "stedfesting_utbredelse": 3.68461117,
+        "stedfesting_unikeid": 4
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501431,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501431/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 144,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4584 S1D1 m200 KD1 m0-60,FV4584 S1D1 m200 KD1 m0-17,FV4584 S1D1 m200 KD1 m17-60",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501432,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501432/3",
+        "versjon": 3,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 3207,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4584 S1D1 m0-200,FV4584 S1D1 m200-228,FV4584 S1D1 m4669-4690,FV4584 S1D1 m228-1047,FV4584 S1D1 m1047-1150,FV4584 S1D1 m1150-1371,FV4584 S1D1 m1371-1462,FV4584 S1D1 m1462-3607,FV4584 S1D1 m3607-3671,FV4584 S1D1 m3671-4125,FV4584 S1D1 m4125-4152,FV4584 S1D1 m4152-4669,FV4584 S1D1 m4634 SD1 m0-4,FV4584 S1D1 m4634 SD1 m4-25,FV4584 S1D1 m4634 SD1 m25-44,FV4584 S1D1 m4634 SD1 m44-63",
+        "stedfesting_antall": 4,
+        "stedfesting_utbredelse": 3.99568913,
+        "stedfesting_unikeid": 4
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501433,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501433/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 150,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4562 S1D1 m650 KD1 m0-69",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501434,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501434/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 351,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4562 S1D1 m650-693,FV4562 S1D1 m693-1798,FV4562 S1D1 m1798-1823",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501435,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501435/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 189,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4562 S1D1 m0-21,FV4562 S1D1 m21-595,FV4562 S1D1 m595-650",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501437,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501437/4",
+        "versjon": 4,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 69,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S14D420 m0-124",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501438,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501438/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 66,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4552 S1D1 m777 KD1 m0-31",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501439,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501439/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 21,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4552 S1D1 m777-802",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501440,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501440/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 369,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4552 S1D1 m103-128,FV4552 S1D1 m128-738,FV4552 S1D1 m738-777",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501441,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501441/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 120,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4552 S1D1 m103 KD1 m0-58",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501442,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501442/3",
+        "versjon": 3,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 75,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4552 S1D1 m0-83,FV4552 S1D1 m83-103",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 1.1936057,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501443,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501443/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 66,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4550 S1D1 m2032 KD1 m0-7,FV4550 S1D1 m2032 KD1 m7-40",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501444,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501444/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 684,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4550 S1D1 m2032-2501,FV4550 S1D1 m2501-3309,FV4550 S1D1 m3309-3343",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501445,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501445/3",
+        "versjon": 3,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 492,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4550 S1D1 m1003-1027,FV4550 S1D1 m1511-1522,FV4550 S1D1 m1604-1632,FV4550 S1D1 m1027-1511,FV4550 S1D1 m1522-1604,FV4550 S1D1 m1640-1999,FV4550 S1D1 m1632-1640,FV4550 S1D1 m1999-2032",
+        "stedfesting_antall": 4,
+        "stedfesting_utbredelse": 2.8528514400000002,
+        "stedfesting_unikeid": 3
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501446,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501446/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 120,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4550 S1D1 m1003 KD1 m0-54",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501447,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501447/5",
+        "versjon": 5,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 678,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4550 S1D1 m0-27,FV4550 S1D1 m56-115,FV4550 S1D1 m129-145,FV4550 S1D1 m45-56,FV4550 S1D1 m166-981,FV4550 S1D1 m145-166,FV4550 S1D1 m27-35,FV4550 S1D1 m115-129,FV4550 S1D1 m35-45,FV4550 S1D1 m981-1003",
+        "stedfesting_antall": 6,
+        "stedfesting_utbredelse": 4.020686029999999,
+        "stedfesting_unikeid": 5
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501448,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501448/2",
+        "versjon": 2,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 72,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV509 S1D1 m1671 KD1 m0-25",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501449,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501449/2",
+        "versjon": 2,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 111,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV509 S1D1 m1648 KD1 m0-58",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501450,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501450/2",
+        "versjon": 2,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 96,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV509 S1D1 m1498 KD1 m0-56",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501451,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501451/2",
+        "versjon": 2,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 78,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV509 S1D1 m612 KD1 m0-54",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501452,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501452/2",
+        "versjon": 2,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 114,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV509 S1D1 m541 KD1 m0-66",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501453,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501453/2",
+        "versjon": 2,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 108,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV509 S1D1 m409 KD1 m0-61",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501454,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501454/4",
+        "versjon": 4,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 939,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV509 S1D1 m0-95,FV509 S1D1 m409-541,FV509 S1D1 m541-612,FV509 S1D1 m612-698,FV509 S1D1 m1498-1648,FV509 S1D1 m1648-1671,FV509 S1D1 m1671-2049,FV509 S1D1 m698-1454,FV509 S1D1 m95-409,FV509 S1D1 m2049-2089,FV509 S1D1 m1454-1498",
+        "stedfesting_antall": 8,
+        "stedfesting_utbredelse": 7.73020077,
+        "stedfesting_unikeid": 8
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501455,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501455/2",
+        "versjon": 2,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 21,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV509 S1D1 m698 KD2 m85-101",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.16123556000000006,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501456,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501456/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 78,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S14D1 m6180 KD1 m0-53",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501457,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501457/5",
+        "versjon": 5,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 9,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S14D1 m6278-6284",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.043876930000000036,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501458,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501458/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 144,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S14D1 m6051 KD1 m0-43",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501459,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501459/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 147,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S14D1 m5794 KD1 m0-43",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501460,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501460/2",
+        "versjon": 2,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 1812,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4626 S1D1 m4182-7443",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.43825053999999997,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501461,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501461/4",
+        "versjon": 4,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 6,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4626 S1D1 m0-4",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.00049633,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501462,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501462/2",
+        "versjon": 2,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 1176,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4610 S1D1 m0-185,FV4610 S1D1 m185-2294",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501463,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501463/2",
+        "versjon": 2,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 543,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4616 S1D10 m0-28,FV4616 S1D10 m28-1318",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501464,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501464/5",
+        "versjon": 5,
+        "startdato": "2019-09-03",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 84,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4614 S1D1 m959-1176",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.08249528,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501465,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501465/3",
+        "versjon": 3,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 609,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4614 S1D1 m1176-2082",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501466,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501466/2",
+        "versjon": 2,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 222,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4622 S1D1 m0-915",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.29022043,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501467,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501467/2",
+        "versjon": 2,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 291,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4620 S1D10 m1346-1350,FV4620 S1D10 m1327-1346,FV4620 S1D10 m1301-1327,FV4620 S1D10 m897-1301,FV4620 S1D10 m788-897,FV4620 S1D10 m564-788,FV4620 S1D10 m523-564,FV4620 S1D10 m225-523,FV4620 S1D10 m0-4,FV4620 S1D10 m4-225",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 2.0,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501468,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501468/2",
+        "versjon": 2,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 711,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4620 S1D1 m5192-6636",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501469,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501469/3",
+        "versjon": 3,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 1479,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4621 S1D1 m0-3481,FV4621 S1D1 m3481-3530,FV4621 S1D1 m3530-3557",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 1.9769649500000002,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501470,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501470/2",
+        "versjon": 2,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 3960,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4620 S1D1 m0-25,FV4620 S1D1 m25-154,FV4620 S1D1 m154-176,FV4620 S1D1 m176-5192",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.83122846,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501473,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501473/3",
+        "versjon": 3,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 336,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4612 S1D10 m28-1929,FV4612 S1D10 m0-28",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.8752984500000001,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501474,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501474/4",
+        "versjon": 4,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 126,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4612 S1D30 m0-648",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.48377036,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501492,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501492/4",
+        "versjon": 4,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 1134,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4560 S1D1 m0-35,FV4560 S1D1 m35-1627,FV4560 S3D1 m0-104,FV4560 S3D1 m104-570,FV4560 S3D1 m570-592",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 0.38717082,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501493,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501493/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 249,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4546 S1D1 m0-72,FV4546 S1D1 m72-605",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.26283653,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501547,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501547/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 81,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S14D1 m5576 KD1 m0-41",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501548,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501548/3",
+        "versjon": 3,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 141,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S14D1 m5217 KD1 m0-57",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501549,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501549/3",
+        "versjon": 3,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 144,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S14D1 m5029 KD1 m0-53",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501550,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501550/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 117,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S14D1 m4721 KD1 m0-78",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501551,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501551/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 84,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S14D1 m4637 KD1 m0-56",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501552,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501552/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 99,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S14D1 m4443 KD1 m0-62",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501553,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501553/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 144,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S14D1 m1895 KD1 m0-37",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501554,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501554/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 48,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S14D1 m848 KD1 m0-30",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501555,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501555/2",
+        "versjon": 2,
+        "startdato": "2019-07-08",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 120,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S12D1 m4454 KD1 m0-55,FV44 S12D1 m4454 KD1 m0-11,FV44 S12D1 m4454 KD1 m11-55",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501556,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501556/2",
+        "versjon": 2,
+        "startdato": "2019-07-08",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 75,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S12D1 m3819 KD1 m0-62",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501557,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501557/2",
+        "versjon": 2,
+        "startdato": "2019-07-08",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 78,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S12D1 m2694 KD1 m0-60",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501558,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501558/2",
+        "versjon": 2,
+        "startdato": "2019-07-08",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 60,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S12D1 m2042 KD1 m0-59",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.54511637,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501579,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501579/3",
+        "versjon": 3,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 627,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4542 S1D1 m0-34,FV4542 S1D1 m34-839",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.77515351,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501620,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501620/2",
+        "versjon": 2,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 51,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV509 S1D1 m698 KD2 m0-85",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.83876444,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501621,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501621/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 147,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4568 S1D1 m367 KD1 m0-57",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501622,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501622/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 105,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4568 S1D1 m199-367",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501623,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501623/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 84,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4580 S1D1 m407 KD1 m0-34",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501624,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501624/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 189,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4580 S1D1 m407-623",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501632,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501632/5",
+        "versjon": 5,
+        "startdato": "2019-07-08",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 6,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S12D50 m1581-1585",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.0031149,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501638,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501638/5",
+        "versjon": 5,
+        "startdato": "2019-09-19",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 978,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4690 S1D1 m177-4915",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.52607586,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501640,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501640/3",
+        "versjon": 3,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 222,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4614 S1D1 m20 KD1 m0-71,FV4614 S1D1 m20 KD1 m0-34,FV4614 S1D1 m20 KD1 m34-71",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501641,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501641/3",
+        "versjon": 3,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 1524,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4616 S1D1 m0-42,FV4616 S1D1 m42-8750",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501642,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501642/3",
+        "versjon": 3,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 177,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4614 S1D1 m30-959,FV4614 S1D1 m0-30",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501679,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501679/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 30,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4592 S1D1 m0-31",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.04446938,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501699,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501699/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 162,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4540 S2D1 m2223 KD1 m0-71",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501701,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501701/2",
+        "versjon": 2,
+        "startdato": "2019-07-08",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 228,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S14D1 m1 KD1 m0-174",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501717,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501717/2",
+        "versjon": 2,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 300,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4626 S1D1 m4-21,FV4626 S1D1 m21-592",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.07878694,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501718,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501718/2",
+        "versjon": 2,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 1668,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4626 S1D1 m592-4182",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.48246619,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501724,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501724/3",
+        "versjon": 3,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 129,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4612 S1D30 m648-1343",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.5162296399999999,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501728,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501728/4",
+        "versjon": 4,
+        "startdato": "2019-07-08",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 81,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S12D50 m118-224,FV44 S12D50 m0-118",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 0.88361309,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501737,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501737/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 15,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4576 S1D1 m0-18",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501742,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501742/4",
+        "versjon": 4,
+        "startdato": "2019-10-31",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 165,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4608 S1D1 m2880 KD1 m0-69",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501756,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501756/3",
+        "versjon": 3,
+        "startdato": "2019-07-08",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 462,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S12D50 m359 KD2 m0-371,FV44 S12D50 m359 KD3 m0-79,FV44 S12D50 m359 KD1 m0-139,FV44 S12D50 m359 KD3 m79-258,FV44 S12D50 m359 KD2 m371-393",
+        "stedfesting_antall": 4,
+        "stedfesting_utbredelse": 4.0,
+        "stedfesting_unikeid": 4
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501772,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501772/2",
+        "versjon": 2,
+        "startdato": "2019-07-08",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 111,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S12D1 m3222 KD1 m0-82",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501776,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501776/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 246,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4544 S1D1 m130 KD1 m0-90",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501777,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501777/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 162,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4550 S1D1 m1604 KD1 m0-80",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501778,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501778/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 78,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4586 S1D1 m271 KD1 m0-50",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501779,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501779/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 78,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4570 S1D1 m875 KD1 m0-76",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501780,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501780/2",
+        "versjon": 2,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 114,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4688 S1D1 m2936 SD1 m0-77,FV4688 S1D1 m4093 SD1 m0-56",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 2.0,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501795,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501795/4",
+        "versjon": 4,
+        "startdato": "2019-09-19",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 360,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4690 S2D1 m1929-3986",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.2243267,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501798,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501798/4",
+        "versjon": 4,
+        "startdato": "2019-10-31",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 1212,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4608 S1D1 m0-24,FV4608 S1D1 m2839-2851,FV4608 S1D1 m2880-2910,FV4608 S1D1 m24-2839,FV4608 S1D1 m2851-2880,FV4608 S1D1 m2910-4644",
+        "stedfesting_antall": 4,
+        "stedfesting_utbredelse": 2.6401613299999998,
+        "stedfesting_unikeid": 3
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501799,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501799/3",
+        "versjon": 3,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 228,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4608 S1D40 m0-21,FV4608 S1D40 m60-1038,FV4608 S1D40 m21-60",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 1.93326346,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501846,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501846/2",
+        "versjon": 2,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 180,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4612 S1D10 m1929-1954,FV4612 S1D10 m1929 KD1 m0-56",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 2.0,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501861,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501861/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 60,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4586 S1D1 m424 KD1 m0-53",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501862,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501862/3",
+        "versjon": 3,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 24,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4614 S1D10 m0-79",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501864,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501864/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 63,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4526 S2D1 m1894-1971",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.29480133,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501865,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501865/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 108,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4526 S2D1 m1639 KD1 m0-68",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501866,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501866/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 114,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4526 S2D1 m1465 KD1 m0-64",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501910,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501910/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 57,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4540 S2D1 m468 SD1 m0-83",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501965,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501965/3",
+        "versjon": 3,
+        "startdato": "2019-09-19",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 1314,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4690 S2D1 m7386-11590,FV4690 S2D1 m5480-7386",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 0.67353741,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980501973,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980501973/11",
+        "versjon": 11,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 60,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4590 S2D1 m51-63,FV4590 S2D1 m63-87,FV4590 S2D1 m0-51",
+        "stedfesting_antall": 3,
+        "stedfesting_utbredelse": 1.47229273,
+        "stedfesting_unikeid": 3
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980502001,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980502001/5",
+        "versjon": 5,
+        "startdato": "2019-07-08",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 1872,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S14D1 m1989-1996,FV44 S14D1 m4339-4443,FV44 S14D1 m1996-2714,FV44 S14D1 m3699-3791,FV44 S14D1 m2801-3255,FV44 S14D1 m3791-3820,FV44 S14D1 m3820-4339,FV44 S14D1 m3255-3283,FV44 S14D1 m3283-3699,FV44 S14D1 m2714-2744,FV44 S14D1 m2744-2801,FV44 S14D1 m2729 KD1 m0-94,FV44 S14D1 m3269 KD1 m0-89,FV44 S14D1 m4339 KD1 m0-79,FV44 S14D1 m3806 KD1 m0-91",
+        "stedfesting_antall": 8,
+        "stedfesting_utbredelse": 7.9197516,
+        "stedfesting_unikeid": 8
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980502030,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980502030/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 78,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4550 S1D1 m129 KD1 m0-33",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980502076,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980502076/4",
+        "versjon": 4,
+        "startdato": "2019-07-08",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 717,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S12D50 m1372-1581,FV44 S12D50 m987-1372,FV44 S12D50 m603-987,FV44 S12D50 m224-603",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.9968851,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980502077,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980502077/2",
+        "versjon": 2,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 438,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4690 S2D10 m0-1733",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.38743904,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980502081,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980502081/10",
+        "versjon": 10,
+        "startdato": "2019-07-08",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 3249,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV44 S12D1 m2042-2098,FV44 S12D1 m2694-2748,FV44 S12D1 m3184-3222,FV44 S12D1 m3222-3258,FV44 S12D1 m3819-3855,FV44 S12D1 m4454-4591,FV44 S12D1 m3855-4439,FV44 S12D1 m2748-3184,FV44 S12D1 m2098-2348,FV44 S12D1 m2348-2524,FV44 S12D1 m3258-3458,FV44 S12D1 m3458-3649,FV44 S12D1 m2524-2635,FV44 S12D1 m1633-1999,FV44 S12D1 m3649-3786,FV44 S12D1 m2635-2694,FV44 S12D1 m4439-4454,FV44 S12D1 m1999-2042,FV44 S12D1 m3786-3819,FV44 S13D1 m0-173,FV44 S13D1 m173-179,FV44 S14D1 m0-78,FV44 S14D1 m848-871,FV44 S14D1 m1895-1916,FV44 S14D1 m4443-4637,FV44 S14D1 m4637-4721,FV44 S14D1 m4721-5029,FV44 S14D1 m5029-5217,FV44 S14D1 m5217-5246,FV44 S14D1 m5576-5794,FV44 S14D1 m5794-6051,FV44 S14D1 m6051-6180,FV44 S14D1 m6180-6278,FV44 S14D1 m871-1861,FV44 S14D1 m1916-1989,FV44 S14D1 m5246-5543,FV44 S14D1 m178-812,FV44 S14D1 m78-158,FV44 S14D1 m5543-5576,FV44 S14D1 m158-178,FV44 S14D1 m812-848,FV44 S14D1 m1861-1895,FV44 S12D50 m359 KD5 m0-254",
+        "stedfesting_antall": 23,
+        "stedfesting_utbredelse": 19.44567212,
+        "stedfesting_unikeid": 22
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980502087,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980502087/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 705,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4566 S1D1 m7405-7559,FV4566 S1D1 m3477 KD1 m0-59,FV4566 S1D1 m5017 KD1 m0-54,FV4566 S1D1 m5017 KD1 m0-40,FV4566 S1D1 m5017 KD1 m40-54,FV4566 S1D1 m5724 KD1 m0-51,FV4566 S1D1 m5724 KD1 m0-19,FV4566 S1D1 m5724 KD1 m19-51,FV4566 S1D1 m6495 KD1 m0-48,FV4566 S1D1 m6495 KD1 m0-15,FV4566 S1D1 m6495 KD1 m15-48,FV4566 S1D1 m7839 KD1 m0-65",
+        "stedfesting_antall": 6,
+        "stedfesting_utbredelse": 6.0,
+        "stedfesting_unikeid": 6
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980502088,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980502088/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 78,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4566 S1D1 m3932-4044",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980502090,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980502090/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 96,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4526 S2D1 m1346 KD1 m0-79",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980502091,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980502091/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 114,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4526 S2D1 m1560 KD1 m0-76",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980502092,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980502092/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 99,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4580 S1D1 m0-41,FV4580 S1D1 m41-164,FV4580 S1D1 m164-202",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.26268586,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980502099,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980502099/3",
+        "versjon": 3,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 180,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV519 S1D1 m16643-16721,FV519 S1D1 m16962-16970,FV519 S1D1 m16721-16851,FV519 S1D1 m16970-16983,FV519 S1D1 m16851-16954,FV519 S1D1 m16954-16962",
+        "stedfesting_antall": 6,
+        "stedfesting_utbredelse": 6.0,
+        "stedfesting_unikeid": 6
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980502100,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980502100/4",
+        "versjon": 4,
+        "startdato": "2019-09-27",
+        "geometri": false,
+        "geometritype": "",
+        "wkt_punkt": 0,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "",
+        "vref": "",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980502113,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980502113/2",
+        "versjon": 2,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 96,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4526 S1D1 m194 KD1 m0-61",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980502114,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980502114/2",
+        "versjon": 2,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 276,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4612 S1D1 m7399-7941",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.08281797000000002,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980502124,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980502124/1",
+        "versjon": 1,
+        "startdato": "2019-09-27",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 45,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV509 S1D1 m22 KD5 m0-15,FV509 S1D1 m22 KD5 m15-84,FV509 S1D1 m22 KD5 m84-98",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980502217,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980502217/1",
+        "versjon": 1,
+        "startdato": "2019-07-18",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 198,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4566 S1D20 m0-71,FV4566 S1D20 m71 KD1 m0-96",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 2.0,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980502224,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980502224/1",
+        "versjon": 1,
+        "startdato": "2019-07-15",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 327,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4688 S1D10 m532-628,FV4688 S1D10 m398-532,FV4688 S1D10 m351-398,FV4688 S1D10 m174-351,FV4688 S1D10 m36-174,FV4688 S1D10 m0-36,FV4688 S1D10 m628-680",
+        "stedfesting_antall": 3,
+        "stedfesting_utbredelse": 2.0793855299999997,
+        "stedfesting_unikeid": 3
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980502225,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980502225/2",
+        "versjon": 2,
+        "startdato": "2019-09-19",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 330,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4690 S2D1 m3986-5480",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.16240543000000007,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980502226,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980502226/1",
+        "versjon": 1,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 438,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4618 S1D1 m0-2511",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.9175047199999999,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 980502227,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/980502227/1",
+        "versjon": 1,
+        "startdato": "2019-07-17",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 549,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "F",
+        "vref": "FV4620 S1D20 m0-1056",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.16877154000000005,
+        "stedfesting_unikeid": 1
+    }
+]

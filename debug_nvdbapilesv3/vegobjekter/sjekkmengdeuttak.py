@@ -12,6 +12,11 @@ import sys
 import os
 import json 
 import re
+from copy import deepcopy
+import pdb
+import pandas as pd
+from pathlib import Path
+
 
 # Legger til nvdbap-V2 bibliotet, som ligger i undermappe relativt til
 #  plasseringen til denne fila
@@ -21,8 +26,6 @@ if not [ k for k in sys.path if 'nvdbapi-V2' in k]:
 
 import nvdbapi 
 import nvdbapiv3
-from copy import deepcopy
-import pdb
 
 def koordinatpunkt( wktstring ): 
     """
@@ -146,7 +149,7 @@ def mengdeuttak( sok, antall=3, inkluderstedfesting=False):
     elif hasattr( sok, 'apiurl' ) and 'v2' in sok.apiurl: 
         apiversjon = 'v2'
     else:
-        raise ValueError( 'Ugyldig søkeobjekt eller sok.apiurl ???')
+        raise ValueError( 'Ugyldig søkeobjekt eller so  k.apiurl ???')
 
     print( 'Henter', sok.objektTypeId, 'fra', sok.apiurl,  str( sok.allfilters() ))
 
@@ -169,3 +172,83 @@ def mengdeuttak( sok, antall=3, inkluderstedfesting=False):
         feat = sok.nesteForekomst()
 
     return (resultat, mangler_geometri)
+
+def lastned( objtypeId, mappe, v2filter ): 
+
+    sokv2 = nvdbapi.nvdbFagdata(objtypeId)
+    sokv3 = nvdbapiv3.nvdbFagdata(objtypeId)
+
+    # Hvilket miljø bruker vi?
+    # sokv2.apiurl = 'https://www.test.vegvesen.no/nvdb/api/v2'
+    # sokv3.miljo( 'test')
+
+    Path(mappe).mkdir(parents=True, exist_ok=True)
+
+
+    sokv2.addfilter_geo(  v2filter )
+
+    (allev2, manglerv2) = mengdeuttak( sokv2, antall=1e12)
+
+    vref = v2filter.pop( 'vegreferanse')
+    v3filter = deepcopy(v2filter )
+    if vref: 
+        v3filter['vegsystemreferanse'] = vref
+
+    sokv3.addfilter_geo(  v3filter )
+    (allev3, manglerv3) = mengdeuttak( sokv3, antall=1e12)
+
+    oo = '_' + str( objtypeId ) + '_' + vref 
+
+    with open( mappe + 'mangler_geometriv3' + oo + '.json', 'w', encoding='utf-8') as f:
+        json.dump( manglerv3, f, ensure_ascii=False, indent=4)
+
+    with open( mappe + 'mengdeuttak_v3' + oo + '.json', 'w', encoding='utf-8') as f:
+        json.dump( allev3, f, ensure_ascii=False, indent=4)
+
+    with open( mappe + 'mangler_geometriv2' + oo + '.json', 'w', encoding='utf-8') as f:
+        json.dump( manglerv2, f, ensure_ascii=False, indent=4)
+
+    with open( mappe + 'mengdeuttak_v2' + oo + '.json', 'w', encoding='utf-8') as f:
+        json.dump( allev2, f, ensure_ascii=False, indent=4)
+
+
+    minlogg = sammenlign( allev3, allev2, sokefilter=v3filter )
+
+    print( minlogg )
+    return minlogg 
+
+def sammenlign( v3data, v2data, sokefilter='' ):
+
+    sokefilter = str( sokefilter )
+
+    v3data = pd.DataFrame( v3data)
+    v2data = pd.DataFrame( v2data )
+
+    # Mengdehåndtering (set) 
+    v2mengde = set( v2data['vegobjektid'].tolist())
+    v3gyldig = set( v3data[   v3data['geometri']]['vegobjektid'].tolist())
+    v3ugyldig = set( v3data[ ~v3data['geometri']]['vegobjektid'].tolist())   
+
+    diff_2_gyldig3      = len(v2mengde-v3gyldig)
+    diff_gyldig3_2      = len(v3gyldig-v2mengde)
+    overlapp_ugyldig3_2 = len( v3ugyldig & v2mengde)
+
+    retur = []
+    if diff_2_gyldig3 > 0: 
+        retur.append( 'FEiL: ' + str( diff_2_gyldig3 ) + 
+            ' objekter finnes i v2-søk, men ikke i V3-søk ' + sokefilter )
+    
+    if diff_gyldig3_2 > 0:
+        retur.append ( 'FEiL: ' + str( diff_gyldig3_2) + \
+            ' gyldige objekter i v3-søk som ikke finnes i v2-søk ' + sokefilter )
+
+    if overlapp_ugyldig3_2 > 0:
+        retur.append( 'FEiL: ' + str( overlapp_ugyldig3_2 ) + \
+            ' ugyldige objekter i v3-søk som finnes i v2-søk ' + sokefilter  ) 
+
+    if len( retur ) == 0: 
+        retur.append( 'GODKJENT Søk mot V3 ga ' +  str( len( v3gyldig)) + \
+        ' gyldige og ' + str( len( v3ugyldig )) + ' ugyldige objekter ' + \
+                                                            sokefilter )
+
+    return retur

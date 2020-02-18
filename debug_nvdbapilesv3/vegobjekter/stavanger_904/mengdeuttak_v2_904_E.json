@@ -1,0 +1,650 @@
+[
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 834243613,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/834243613",
+        "versjon": 1,
+        "startdato": "1980-01-01",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 42,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Eg39 hp210 m2956-3095",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.29949564000000006,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 834243614,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/834243614",
+        "versjon": 1,
+        "startdato": "1980-01-01",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 108,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Eg39 hp210 m2700-2956",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.54948004,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 834244108,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/834244108",
+        "versjon": 3,
+        "startdato": "2016-08-17",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 315,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp54 m0-281,1100 Ev39 hp54 m281-450",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980462683,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980462683",
+        "versjon": 6,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 291,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp86 m14000-14144,1100 Ev39 hp86 m41000-41526",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 1.35421186,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980462684,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980462684",
+        "versjon": 6,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 1059,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp86 m14144-14581,1100 Ev39 hp86 m34000-34494,1100 Ev39 hp86 m43000-43523",
+        "stedfesting_antall": 3,
+        "stedfesting_utbredelse": 2.86322397,
+        "stedfesting_unikeid": 3
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980462691,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980462691",
+        "versjon": 6,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 780,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp85 m14000-14277,1100 Ev39 hp85 m21000-21698,1100 Ev39 hp85 m32000-32359,1100 Ev39 hp85 m34000-34092,1100 Ev39 hp85 m43000-43353",
+        "stedfesting_antall": 5,
+        "stedfesting_utbredelse": 5.0,
+        "stedfesting_unikeid": 5
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980462694,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980462694",
+        "versjon": 6,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 102,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp76 m12000-12045,1100 Ev39 hp76 m23000-23041,1100 Ev39 hp76 m32000-32129",
+        "stedfesting_antall": 3,
+        "stedfesting_utbredelse": 3.0,
+        "stedfesting_unikeid": 3
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980462696,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980462696",
+        "versjon": 6,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 210,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp78 m14000-14198,1100 Ev39 hp78 m21000-21032,1100 Ev39 hp78 m32000-32180,1100 Ev39 hp78 m43000-43029",
+        "stedfesting_antall": 4,
+        "stedfesting_utbredelse": 4.0,
+        "stedfesting_unikeid": 4
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980462700,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980462700",
+        "versjon": 6,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 438,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp81 m14000-14193,1100 Ev39 hp81 m21000-21141,1100 Ev39 hp81 m32000-32179,1100 Ev39 hp81 m43000-43108",
+        "stedfesting_antall": 4,
+        "stedfesting_utbredelse": 4.0,
+        "stedfesting_unikeid": 4
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980462701,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980462701",
+        "versjon": 6,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 93,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp82 m21000-21028,1100 Ev39 hp82 m32000-32109",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 2.0,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980462704,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980462704",
+        "versjon": 6,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 75,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp66 m0-138",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 1.53649652,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980462709,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980462709",
+        "versjon": 10,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 849,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp87 m14000-14436,1100 Ev39 hp87 m21000-21418,1100 Ev39 hp87 m32000-32425,1100 Ev39 hp87 m43000-43614",
+        "stedfesting_antall": 5,
+        "stedfesting_utbredelse": 4.74975203,
+        "stedfesting_unikeid": 5
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980462710,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980462710",
+        "versjon": 6,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 810,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp84 m14000-14328,1100 Ev39 hp84 m21000-21363,1100 Ev39 hp84 m32000-32337,1100 Ev39 hp84 m43000-43540",
+        "stedfesting_antall": 4,
+        "stedfesting_utbredelse": 4.0,
+        "stedfesting_unikeid": 4
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980462711,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980462711",
+        "versjon": 5,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 144,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp412 m0-31,1100 Ev39 hp412 m31-52",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980462712,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980462712",
+        "versjon": 5,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 420,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp10 m8070-8232,1100 Ev39 hp10 m8261-8394,1100 Ev39 hp10 m8410-8683",
+        "stedfesting_antall": 3,
+        "stedfesting_utbredelse": 3.0,
+        "stedfesting_unikeid": 3
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980462713,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980462713",
+        "versjon": 5,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 153,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp413 m0-32,1100 Ev39 hp413 m32-51",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980462714,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980462714",
+        "versjon": 5,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 291,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp10 m8703-9283",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980462715,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980462715",
+        "versjon": 5,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 102,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp414 m0-46,1100 Ev39 hp414 m46-65",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980462716,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980462716",
+        "versjon": 5,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 114,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp10 m9315-9586",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980462717,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980462717",
+        "versjon": 5,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 51,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp11 m0-104",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980462723,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980462723",
+        "versjon": 6,
+        "startdato": "2019-02-01",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 2562,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp11 m424-586,1100 Ev39 hp451 m0-59,1100 Ev39 hp451 m59-112,1100 Ev39 hp452 m0-114,1100 Ev39 hp453 m0-64,1100 Ev39 hp453 m64-103,1100 Ev39 hp486 m0-77,1100 Ev39 hp487 m0-73,1100 Ev39 hp51 m0-165,1100 Ev39 hp51 m204-435,1100 Ev39 hp51 m475-903,1100 Ev39 hp83 m13000-13332,1100 Ev39 hp83 m24000-63220,1100 Ev39 hp83 m24327-24335,1100 Ev39 hp83 m31000-31292,1100 Ev39 hp83 m32000-32232,1100 Ev39 hp83 m32232-32307,1100 Ev39 hp83 m34000-34045,1100 Ev39 hp83 m34093-34299,1100 Ev39 hp83 m41000-41201,1100 Ev39 hp83 m63000-63008",
+        "stedfesting_antall": 21,
+        "stedfesting_utbredelse": 19.94665476,
+        "stedfesting_unikeid": 21
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980463318,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980463318",
+        "versjon": 5,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 21,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp52 m0-39",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980463319,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980463319",
+        "versjon": 5,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 15,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp53 m0-34",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980463320,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980463320",
+        "versjon": 5,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 30,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp56 m0-131",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980463322,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980463322",
+        "versjon": 5,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 219,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp409 m0-56,1100 Ev39 hp409 m56-99",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980463401,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980463401",
+        "versjon": 5,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 135,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp9 m7690-8061",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980463591,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980463591",
+        "versjon": 2,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 51,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp77 m32000-32146",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980463592,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980463592",
+        "versjon": 2,
+        "startdato": "2019-08-30",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 51,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp75 m14000-14195",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980463593,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980463593",
+        "versjon": 2,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 174,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp818 m13000-13207,1100 Ev39 hp818 m31000-31025,1100 Ev39 hp818 m71000-71041",
+        "stedfesting_antall": 3,
+        "stedfesting_utbredelse": 3.0,
+        "stedfesting_unikeid": 3
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980463594,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980463594",
+        "versjon": 2,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 66,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp819 m13000-13090",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980463756,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980463756",
+        "versjon": 7,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 3189,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp11 m586-3696,1100 Ev39 hp12 m0-4497",
+        "stedfesting_antall": 2,
+        "stedfesting_utbredelse": 1.04098019,
+        "stedfesting_unikeid": 2
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980463757,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980463757",
+        "versjon": 5,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 207,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp407 m0-33,1100 Ev39 hp407 m33-63",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980463758,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980463758",
+        "versjon": 10,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "MULTILINESTRING Z",
+        "wkt_punkt": 11601,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp10 m2313-4534,1100 Ev39 hp10 m4538-5333,1100 Ev39 hp10 m5339-7717,1100 Ev39 hp10 m7738-8070,1100 Ev39 hp405 m0-14,1100 Ev39 hp405 m14-45,1100 Ev39 hp8 m0-7428,1100 Ev39 hp9 m0-7690,1100 Ev39 hp9 m20000-20364,1100 Ev39 hp9 m8061-12051",
+        "stedfesting_antall": 10,
+        "stedfesting_utbredelse": 7.41672294,
+        "stedfesting_unikeid": 9
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980463759,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980463759",
+        "versjon": 5,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 153,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp406 m0-21,1100 Ev39 hp406 m21-57",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 980463854,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/980463854",
+        "versjon": 4,
+        "startdato": "2019-08-29",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 111,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Ev39 hp87 m12000-12277",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    },
+    {
+        "apiversjon": "v2",
+        "vegobjektid": 1004697057,
+        "href": "https://www.vegvesen.no/nvdb/api/v2/vegobjekter/904/1004697057",
+        "versjon": 1,
+        "startdato": "2019-11-14",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 36,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "E",
+        "vref": "1100 Es39 hp65 m0-270",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 1.0,
+        "stedfesting_unikeid": 1
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "apiversjon": "v3",
+        "vegobjektid": 835339712,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835339712/1",
+        "versjon": 1,
+        "startdato": "1980-01-01",
+        "geometri": true,
+        "geometritype": "LINESTRING Z",
+        "wkt_punkt": 66,
+        "kommuner": [
+            1103
+        ],
+        "vegkat": "S",
+        "vref": "SV1831 S1D1 m0-121",
+        "stedfesting_antall": 1,
+        "stedfesting_utbredelse": 0.23319439000000003,
+        "stedfesting_unikeid": 1
+    }
+]

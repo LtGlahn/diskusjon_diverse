@@ -1,0 +1,478 @@
+[
+    {
+        "id": 835328345,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/835328345/2",
+        "metadata": {
+            "type": {
+                "id": 904,
+                "navn": "Bruksklasse, normaltransport"
+            },
+            "versjon": 2,
+            "startdato": "2011-01-01",
+            "sist_modifisert": "2019-12-30T16:10:50"
+        },
+        "egenskaper": [
+            {
+                "id": 120904,
+                "navn": "Liste av lokasjonsattributt",
+                "egenskapstype": "Liste",
+                "datatype": "Liste",
+                "innhold": [
+                    {
+                        "id": 100904,
+                        "navn": "StrekningTilknytning",
+                        "egenskapstype": "Stedfesting",
+                        "datatype": "GeomLinje eller Kurve",
+                        "stedfestingstype": "Linje",
+                        "veglenkesekvensid": 297118,
+                        "startposisjon": 0.01428698,
+                        "sluttposisjon": 0.08289516,
+                        "retning": "MED",
+                        "kjørefelt": []
+                    }
+                ]
+            },
+            {
+                "id": 10913,
+                "navn": "Maks vogntoglengde",
+                "egenskapstype": "Tekstenum",
+                "datatype": "FlerverdiAttributt, Tekst",
+                "verdi": "19,50",
+                "enum_id": 18253
+            },
+            {
+                "id": 10901,
+                "navn": "Bruksklasse",
+                "egenskapstype": "Tekstenum",
+                "datatype": "FlerverdiAttributt, Tekst",
+                "verdi": "Bk8 - 32 tonn",
+                "enum_id": 18188
+            },
+            {
+                "id": 11210,
+                "navn": "Vegliste gjelder alltid",
+                "egenskapstype": "Tekst",
+                "datatype": "Tekst",
+                "verdi": "Se www.vegvesen.no/veglister"
+            }
+        ],
+        "lokasjon": {
+            "kommuner": [
+                1103
+            ],
+            "fylker": [
+                11
+            ],
+            "kontraktsområder": [],
+            "riksvegruter": [],
+            "vegsystemreferanser": [],
+            "stedfestinger": [
+                {
+                    "type": "Linje",
+                    "veglenkesekvensid": 297118,
+                    "startposisjon": 0.01428698,
+                    "sluttposisjon": 0.08289516,
+                    "kortform": "0.01428698-0.08289516@297118",
+                    "kjørefelt": [],
+                    "retning": "MED"
+                }
+            ],
+            "lengde": 0
+        },
+        "vegsegmenter": [
+            {
+                "veglenkesekvensid": 297118,
+                "startposisjon": 0.01428698,
+                "sluttposisjon": 0.08289516,
+                "lengde": 50.776,
+                "veglenkeType": "HOVED",
+                "detaljnivå": "Vegtrase og kjørebane",
+                "typeVeg": "Gang- og sykkelveg",
+                "typeVeg_sosi": "gangOgSykkelveg",
+                "startdato": "2011-01-01",
+                "sluttdato": "2012-12-18",
+                "geometri": {
+                    "wkt": "LINESTRING Z(-34674.251 6568242.902 22.23, -34672.81 6568241.904 22.24, -34671.12 6568241.2 22.17, -34668.38 6568240.35 22.15, -34666.02 6568239.95 22.16, -34663.83 6568239.89 22.14, -34661.93 6568240.05 22.11, -34659.63 6568240.57 22.05, -34657.02 6568241.37 21.9, -34655.44 6568241.93 21.84, -34652.27 6568243.05 21.54, -34650.6 6568243.69 21.42, -34645.72 6568245.54 20.89, -34642.59 6568246.75 20.42, -34637.27 6568248.82 19.83, -34635.38 6568249.56 19.58, -34632.8 6568250.66 19.23, -34631.42 6568251.18 19.21, -34629.59 6568251.8 18.98, -34628.22 6568252.49 18.83, -34626.986 6568253.627 18.66)",
+                    "srid": 6173
+                },
+                "kommune": 1103,
+                "fylke": 11,
+                "vegsystemreferanse": {
+                    "vegsystem": {
+                        "id": 1002149048,
+                        "versjon": 1,
+                        "vegkategori": "R",
+                        "fase": "V",
+                        "nummer": 510
+                    },
+                    "kortform": "RV510"
+                }
+            }
+        ],
+        "relasjoner": {}
+    },
+    {
+        "id": 906382126,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/906382126/3",
+        "metadata": {
+            "type": {
+                "id": 904,
+                "navn": "Bruksklasse, normaltransport"
+            },
+            "versjon": 3,
+            "startdato": "2009-10-30",
+            "sist_modifisert": "2019-10-18T17:43:27"
+        },
+        "egenskaper": [
+            {
+                "id": 120904,
+                "navn": "Liste av lokasjonsattributt",
+                "egenskapstype": "Liste",
+                "datatype": "Liste",
+                "innhold": [
+                    {
+                        "id": 100904,
+                        "navn": "StrekningTilknytning",
+                        "egenskapstype": "Stedfesting",
+                        "datatype": "GeomLinje eller Kurve",
+                        "stedfestingstype": "Linje",
+                        "veglenkesekvensid": 319941,
+                        "startposisjon": 0.0,
+                        "sluttposisjon": 0.00589721,
+                        "retning": "MED",
+                        "kjørefelt": []
+                    },
+                    {
+                        "id": 100904,
+                        "navn": "StrekningTilknytning",
+                        "egenskapstype": "Stedfesting",
+                        "datatype": "GeomLinje eller Kurve",
+                        "stedfestingstype": "Linje",
+                        "veglenkesekvensid": 1814869,
+                        "startposisjon": 0.0,
+                        "sluttposisjon": 1.0,
+                        "retning": "MED",
+                        "kjørefelt": []
+                    }
+                ]
+            },
+            {
+                "id": 10913,
+                "navn": "Maks vogntoglengde",
+                "egenskapstype": "Tekstenum",
+                "datatype": "FlerverdiAttributt, Tekst",
+                "verdi": "19,50",
+                "enum_id": 18253
+            },
+            {
+                "id": 10901,
+                "navn": "Bruksklasse",
+                "egenskapstype": "Tekstenum",
+                "datatype": "FlerverdiAttributt, Tekst",
+                "verdi": "Bk10 - 50 tonn",
+                "enum_id": 18184
+            },
+            {
+                "id": 11210,
+                "navn": "Vegliste gjelder alltid",
+                "egenskapstype": "Tekst",
+                "datatype": "Tekst",
+                "verdi": "Se www.vegvesen.no/veglister"
+            }
+        ],
+        "lokasjon": {
+            "kommuner": [
+                1103
+            ],
+            "fylker": [
+                11
+            ],
+            "kontraktsområder": [],
+            "riksvegruter": [],
+            "vegsystemreferanser": [],
+            "stedfestinger": [
+                {
+                    "type": "Linje",
+                    "veglenkesekvensid": 319941,
+                    "startposisjon": 0.0,
+                    "sluttposisjon": 0.00589721,
+                    "kortform": "0.0-0.00589721@319941",
+                    "kjørefelt": [],
+                    "retning": "MED"
+                },
+                {
+                    "type": "Linje",
+                    "veglenkesekvensid": 1814869,
+                    "startposisjon": 0.0,
+                    "sluttposisjon": 1.0,
+                    "kortform": "0.0-1.0@1814869",
+                    "kjørefelt": [],
+                    "retning": "MED"
+                }
+            ],
+            "lengde": 0
+        },
+        "vegsegmenter": [
+            {
+                "veglenkesekvensid": 319941,
+                "startposisjon": 0.0,
+                "sluttposisjon": 0.00589721,
+                "lengde": 21.411,
+                "veglenkeType": "HOVED",
+                "detaljnivå": "Vegtrase og kjørebane",
+                "typeVeg": "Enkel bilveg",
+                "typeVeg_sosi": "enkelBilveg",
+                "startdato": "2009-10-30",
+                "sluttdato": "2010-01-01",
+                "geometri": {
+                    "wkt": "LINESTRING Z(-24411.4 6592023.8 2, -24409.9 6592035.3 2.3, -24407.1 6592044.7 2.5)",
+                    "srid": 6173
+                },
+                "kommune": 1103,
+                "fylke": 11,
+                "vegsystemreferanse": {
+                    "vegsystem": {
+                        "id": 1002150521,
+                        "versjon": 1,
+                        "vegkategori": "R",
+                        "fase": "V",
+                        "nummer": 519
+                    },
+                    "kortform": "RV519"
+                }
+            },
+            {
+                "veglenkesekvensid": 1814869,
+                "startposisjon": 0.0,
+                "sluttposisjon": 1.0,
+                "lengde": 128.004,
+                "veglenkeType": "HOVED",
+                "detaljnivå": "Vegtrase og kjørebane",
+                "typeVeg": "Enkel bilveg",
+                "typeVeg_sosi": "enkelBilveg",
+                "startdato": "2009-10-30",
+                "sluttdato": "2010-01-01",
+                "geometri": {
+                    "wkt": "LINESTRING Z(-24407.1 6592044.7 2.5, -24400.741 6592058.818 2.8, -24391.85 6592067.037 3.6, -24373.565 6592074.754 4, -24352.596 6592079.787 4.5, -24324.413 6592085.323 4.713, -24324.413 6592091.781 4.9, -24324.665 6592097.401 5, -24327.611 6592115.304 5.568)",
+                    "srid": 6173
+                },
+                "kommune": 1103,
+                "fylke": 11,
+                "vegsystemreferanse": {
+                    "vegsystem": {
+                        "id": 1002150521,
+                        "versjon": 1,
+                        "vegkategori": "R",
+                        "fase": "V",
+                        "nummer": 519
+                    },
+                    "kortform": "RV519"
+                }
+            }
+        ],
+        "relasjoner": {}
+    },
+    {
+        "id": 919440523,
+        "href": "https://apilesv3.atlas.vegvesen.no/vegobjekter/904/919440523/1",
+        "metadata": {
+            "type": {
+                "id": 904,
+                "navn": "Bruksklasse, normaltransport"
+            },
+            "versjon": 1,
+            "startdato": "1980-01-01",
+            "sist_modifisert": "2019-03-31T22:53:08"
+        },
+        "egenskaper": [
+            {
+                "id": 120904,
+                "navn": "Liste av lokasjonsattributt",
+                "egenskapstype": "Liste",
+                "datatype": "Liste",
+                "innhold": [
+                    {
+                        "id": 100904,
+                        "navn": "StrekningTilknytning",
+                        "egenskapstype": "Stedfesting",
+                        "datatype": "GeomLinje eller Kurve",
+                        "stedfestingstype": "Linje",
+                        "veglenkesekvensid": 283572,
+                        "startposisjon": 0.0,
+                        "sluttposisjon": 1.0,
+                        "retning": "MED",
+                        "kjørefelt": []
+                    },
+                    {
+                        "id": 100904,
+                        "navn": "StrekningTilknytning",
+                        "egenskapstype": "Stedfesting",
+                        "datatype": "GeomLinje eller Kurve",
+                        "stedfestingstype": "Linje",
+                        "veglenkesekvensid": 2805100,
+                        "startposisjon": 0.0,
+                        "sluttposisjon": 1.0,
+                        "retning": "MED",
+                        "kjørefelt": []
+                    },
+                    {
+                        "id": 100904,
+                        "navn": "StrekningTilknytning",
+                        "egenskapstype": "Stedfesting",
+                        "datatype": "GeomLinje eller Kurve",
+                        "stedfestingstype": "Linje",
+                        "veglenkesekvensid": 2710874,
+                        "startposisjon": 0.0,
+                        "sluttposisjon": 0.05465221,
+                        "retning": "MOT",
+                        "kjørefelt": []
+                    }
+                ]
+            },
+            {
+                "id": 10913,
+                "navn": "Maks vogntoglengde",
+                "egenskapstype": "Tekstenum",
+                "datatype": "FlerverdiAttributt, Tekst",
+                "verdi": "12,40",
+                "enum_id": 18255
+            },
+            {
+                "id": 10901,
+                "navn": "Bruksklasse",
+                "egenskapstype": "Tekstenum",
+                "datatype": "FlerverdiAttributt, Tekst",
+                "verdi": "Bk10 - 50 tonn",
+                "enum_id": 18184
+            },
+            {
+                "id": 11210,
+                "navn": "Vegliste gjelder alltid",
+                "egenskapstype": "Tekst",
+                "datatype": "Tekst",
+                "verdi": "Se www.vegvesen.no/veglister"
+            }
+        ],
+        "lokasjon": {
+            "kommuner": [
+                1103
+            ],
+            "fylker": [
+                11
+            ],
+            "kontraktsområder": [
+                {
+                    "id": 587871979,
+                    "nummer": 1103,
+                    "navn": "1103 Stavanger 2017-2022"
+                },
+                {
+                    "id": 813355829,
+                    "nummer": 1153,
+                    "navn": "1153 Sør Rogaland 2018-2023"
+                }
+            ],
+            "riksvegruter": [],
+            "vegsystemreferanser": [],
+            "stedfestinger": [
+                {
+                    "type": "Linje",
+                    "veglenkesekvensid": 2710874,
+                    "startposisjon": 0.0,
+                    "sluttposisjon": 0.05465221,
+                    "kortform": "0.0-0.05465221@2710874",
+                    "kjørefelt": [],
+                    "retning": "MOT"
+                }
+            ],
+            "lengde": 0
+        },
+        "vegsegmenter": [
+            {
+                "veglenkesekvensid": 2710874,
+                "startposisjon": 0.05465221,
+                "sluttposisjon": 0.0,
+                "lengde": 8.998,
+                "veglenkeType": "KONNEKTERING",
+                "detaljnivå": "Vegtrase",
+                "typeVeg": "Kanalisert veg",
+                "typeVeg_sosi": "kanalisertVeg",
+                "startdato": "2017-01-01",
+                "sluttdato": "2018-01-01",
+                "geometri": {
+                    "wkt": "LINESTRING Z(-32576.324 6572919.239 30.718, -32577.932 6572928.092 30.7)",
+                    "srid": 6173
+                },
+                "kommune": 1103,
+                "fylke": 11,
+                "vegsystemreferanse": {
+                    "vegsystem": {
+                        "id": 1002151608,
+                        "versjon": 1,
+                        "vegkategori": "R",
+                        "fase": "V",
+                        "nummer": 509
+                    },
+                    "kortform": "RV509"
+                }
+            },
+            {
+                "veglenkesekvensid": 2710874,
+                "startposisjon": 0.05465221,
+                "sluttposisjon": 0.0,
+                "lengde": 8.998,
+                "veglenkeType": "KONNEKTERING",
+                "detaljnivå": "Vegtrase",
+                "typeVeg": "Kanalisert veg",
+                "typeVeg_sosi": "kanalisertVeg",
+                "startdato": "2018-01-01",
+                "sluttdato": "2018-04-11",
+                "geometri": {
+                    "wkt": "LINESTRING Z(-32576.324 6572919.239 30.718, -32577.932 6572928.092 30.7)",
+                    "srid": 6173
+                },
+                "kommune": 1103,
+                "fylke": 11,
+                "vegsystemreferanse": {
+                    "vegsystem": {
+                        "id": 1002151608,
+                        "versjon": 1,
+                        "vegkategori": "R",
+                        "fase": "V",
+                        "nummer": 509
+                    },
+                    "kortform": "RV509"
+                }
+            },
+            {
+                "veglenkesekvensid": 2710874,
+                "startposisjon": 0.05465221,
+                "sluttposisjon": 0.0,
+                "lengde": 8.998,
+                "veglenkeType": "KONNEKTERING",
+                "detaljnivå": "Vegtrase",
+                "typeVeg": "Kanalisert veg",
+                "typeVeg_sosi": "kanalisertVeg",
+                "startdato": "2018-04-11",
+                "sluttdato": "2019-02-01",
+                "geometri": {
+                    "wkt": "LINESTRING Z(-32576.324 6572919.239 30.718, -32577.932 6572928.092 30.7)",
+                    "srid": 6173
+                },
+                "kommune": 1103,
+                "fylke": 11,
+                "vegsystemreferanse": {
+                    "vegsystem": {
+                        "id": 1002151609,
+                        "versjon": 1,
+                        "vegkategori": "R",
+                        "fase": "V",
+                        "nummer": 509
+                    },
+                    "kortform": "RV509"
+                }
+            }
+        ],
+        "relasjoner": {}
+    }
+]

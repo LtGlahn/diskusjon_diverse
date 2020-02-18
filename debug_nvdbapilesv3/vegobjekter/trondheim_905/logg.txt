@@ -1,2 +1,0 @@
-159 objekter av 1980 mangler geometri 
-for søket {'kommune': 5001, 'vegsystemreferanse': 'K'}
