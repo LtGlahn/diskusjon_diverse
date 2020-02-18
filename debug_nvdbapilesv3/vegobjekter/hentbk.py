@@ -13,48 +13,69 @@ if not [ k for k in sys.path if 'nvdbapi' in k]:
 
 import nvdbapi 
 import nvdbapiv3 
+from copy import deepcopy
 
-# HVa skal vi hente? 
-objtypeId = 904 
+def lastned( objtypeId, mappe, v2filter ): 
 
-# Hvor skal vi lagre det? 
-mappe  = 'trondheim_905/'
-Path(mappe).mkdir(parents=True, exist_ok=True)
+    sokv2 = nvdbapi.nvdbFagdata(objtypeId)
+    sokv3 = nvdbapiv3.nvdbFagdata(objtypeId)
 
+    # Hvilket miljø bruker vi?
+    # sokv2.apiurl = 'https://www.test.vegvesen.no/nvdb/api/v2'
+    # sokv3.miljo( 'test')
+    if not( str(objtypeId) ) in mappe: 
+        mappe = mappe + str( objtypeId)
 
-sokv2 = nvdbapi.nvdbFagdata(objtypeId)
-sokv3 = nvdbapiv3.nvdbFagdata(objtypeId)
-
-# Hvilket miljø bruker vi?
-# sokv2.apiurl = 'https://www.test.vegvesen.no/nvdb/api/v2'
-# sokv3.miljo( 'test')
-
-sokv2.addfilter_geo(  {'kommune': 5001, 'vegreferanse': 'K'} )
-sokv3.addfilter_geo(   {'kommune': 5001, 'vegsystemreferanse': 'K'} )
-
-(allev3, manglerv3) = sjekkmengdeuttak.mengdeuttak( sokv3, antall=1e12)
-(allev2, manglerv2) = sjekkmengdeuttak.mengdeuttak( sokv2, antall=1e12)
+    Path(mappe).mkdir(parents=True, exist_ok=True)
 
 
-with open( mappe + 'mangler_geometriv3.json', 'w', encoding='utf-8') as f:
-    json.dump( manglerv3, f, ensure_ascii=False, indent=4)
+    sokv2.addfilter_geo(  v2filter )
 
-with open( mappe + 'mengdeuttak_v3.json', 'w', encoding='utf-8') as f:
-    json.dump( allev3, f, ensure_ascii=False, indent=4)
+    (allev2, manglerv2) = sjekkmengdeuttak.mengdeuttak( sokv2, antall=1e12)
 
-with open( mappe + 'mangler_geometriv2.json', 'w', encoding='utf-8') as f:
-    json.dump( manglerv2, f, ensure_ascii=False, indent=4)
+    vref = v2filter.pop( 'vegreferanse')
+    v3filter = deepcopy(v2filter )
+    if vref: 
+        v3filter['vegsystemreferanse'] = vref
 
-with open( mappe + 'mengdeuttak_v2.json', 'w', encoding='utf-8') as f:
-    json.dump( allev2, f, ensure_ascii=False, indent=4)
+    sokv3.addfilter_geo(  v3filter )
+    (allev3, manglerv3) = sjekkmengdeuttak.mengdeuttak( sokv3, antall=1e12)
+
+    oo = '_' + str( objtypeId ) + '_' vref 
+
+    with open( mappe + 'mangler_geometriv3' + oo + '.json', 'w', encoding='utf-8') as f:
+        json.dump( manglerv3, f, ensure_ascii=False, indent=4)
+
+    with open( mappe + 'mengdeuttak_v3' + oo + '.json', 'w', encoding='utf-8') as f:
+        json.dump( allev3, f, ensure_ascii=False, indent=4)
+
+    with open( mappe + 'mangler_geometriv2' + oo + '.json', 'w', encoding='utf-8') as f:
+        json.dump( manglerv2, f, ensure_ascii=False, indent=4)
+
+    with open( mappe + 'mengdeuttak_v2' + oo + '.json', 'w', encoding='utf-8') as f:
+        json.dump( allev2, f, ensure_ascii=False, indent=4)
 
 
-loggtekst =  str( len( manglerv3) ) +  ' objekter av ' + str( len( allev3) ) + \
-                ' mangler geometri \nfor søket ' + str( sokv3.allfilters() ) + \
-                '\mmot ' + sokv3.apiurl 
+    loggtekst =  str( len( manglerv3) ) +  ' objekter av ' + str( len( allev3) ) + \
+                    ' mangler geometri \nfor søket ' + str( sokv3.allfilters() ) + \
+                    '\nmot ' + sokv3.apiurl 
 
-with open( mappe + 'logg.txt', 'w') as f3:
-    f3.write( loggtekst )
+    with open( mappe + 'logg_' + oo + '.txt', 'w', encoding='utf-8') as f3:
+        f3.write( loggtekst )
 
-print( loggtekst)
+    print( loggtekst)
+
+if __name__ == "__main__":
+    
+    # HVa skal vi hente? 
+    objtypeId = 904 
+
+    # Hvor skal vi lagre det? 
+    mappe  = 'stavanger/'
+
+    for vref in ['E', 'R', 'F', 'K', 'P', 'S']:
+        v2filter = {'kommune': 1103, 'vegreferanse': vref}
+        # v3filter = {'kommune': 5001, 'vegsystemreferanse': 'K'}
+        lastned( 904, mappe, v2filter)
+
 

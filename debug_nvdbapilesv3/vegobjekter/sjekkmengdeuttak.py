@@ -157,14 +157,14 @@ def mengdeuttak( sok, antall=3, inkluderstedfesting=False):
     feat = sok.nesteForekomst()
     while feat and count < antall:
         count += 1
+        if count % 1000 == 0: 
+            print( '\tHenter objekt', count, 'av', min( [antall, sok.antall ] ))
 
         retur = plukkutdata( feat, inkluderstedfesting=inkluderstedfesting)
         if not retur['geometri']:
             mangler_geometri.append( feat)
 
         resultat.append( deepcopy( retur ) )
-
-    
 
         feat = sok.nesteForekomst()
 
