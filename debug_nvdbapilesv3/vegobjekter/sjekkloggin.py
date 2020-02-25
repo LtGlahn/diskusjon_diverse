@@ -4,6 +4,7 @@ import sys
 import os
 import json 
 from pathlib import Path
+import pandas as pd
 
 # Legger til nvdbap-V2 bibliotet, som ligger i undermappe relativt til
 #  plasseringen til denne fila
@@ -15,7 +16,7 @@ import nvdbapi
 import nvdbapiv3 
 
 # HVa skal vi hente? 
-objtypeId = 809
+objtypeId = 938
 
 # Hvor skal vi lagre det? 
 mappe  = 'skjermedeobjekt/'
@@ -24,59 +25,32 @@ Path(mappe).mkdir(parents=True, exist_ok=True)
 
 # sokv2 = nvdbapi.nvdbFagdata(objtypeId)
 sokv3 = nvdbapiv3.nvdbFagdata(objtypeId)
+sokv3.forbindelse.velgmiljo( miljo='testles')
 
-# Hvilket miljø bruker vi?
-# sokv2.apiurl = 'https://www.test.vegvesen.no/nvdb/api/v2'
-# sokv3.miljo( 'test')
-# sokv3.apiurl = 'https://www.test.vegvesen.no/nvdb/api/v3'
+df_opnedata = pd.DataFrame(  sokv3.to_records()  )
 
-# sokv2.addfilter_geo(  {'kommune': 5001, 'vegreferanse': 'K'} )
-# sokv3.addfilter_geo(   {'kommune': 5001, 'vegsystemreferanse': 'K'} )
+sokv3skjerm = nvdbapiv3.nvdbFagdata(objtypeId)
+sokv3skjerm.forbindelse.velgmiljo( miljo='testles')
+sokv3skjerm.forbindelse.login()
 
-# (allev3, manglerv3) = sjekkmengdeuttak.mengdeuttak( sokv3, antall=1e12)
-# (allev2, manglerv2) = sjekkmengdeuttak.mengdeuttak( sokv2, antall=1e12)
+df_skjermededata = pd.DataFrame( sokv3skjerm.to_records( ))
 
-# with open( mappe + 'mangler_geometriv3.json', 'w', encoding='utf-8') as f:
-#     json.dump( manglerv3, f, ensure_ascii=False, indent=4)
+print( 'Åpne data - skal IKKE inneholde "Graveformål"')
+print( df_opnedata.dtypes )
 
-# with open( mappe + 'mengdeuttak_v3.json', 'w', encoding='utf-8') as f:
-#     json.dump( allev3, f, ensure_ascii=False, indent=4)
-
-# with open( mappe + 'mangler_geometriv2.json', 'w', encoding='utf-8') as f:
-#     json.dump( manglerv2, f, ensure_ascii=False, indent=4)
-
-# with open( mappe + 'mengdeuttak_v2.json', 'w', encoding='utf-8') as f:
-#     json.dump( allev2, f, ensure_ascii=False, indent=4)
+print( '\n=====\nSkjermede data - SKAL inneholde "Graveformål')
+print( df_opnedata.dtypes )
 
 
-# loggtekst =  str( len( manglerv3) ) +  ' objekter av ' + str( len( allev3) ) + \
-#                 ' mangler geometri \nfor søket ' + str( sokv3.allfilters() ) + \
-#                 '\mmot ' + sokv3.apiurl 
+print( '\n\n')
 
-# with open( mappe + 'logg.txt', 'w') as f3:
-#     f3.write( loggtekst )
-
-# print( loggtekst)
+if 'Graveformål' in df_opnedata.dtypes: 
+    print( 'FEIL - åpne data har verdi for skjermet egenskaptype "Graveformål"')
+else: 
+    print( 'Godkjent - åpne data har ikke verdi for skjermet egenskaptype "Graveformål"')
 
 
-# sokv3.miljo( 'test')
-# sokv3.apiurl = 'https://www.test.vegvesen.no/nvdb/api/v3'
-
-dogn = sokv3.nesteForekomst()
-
-
-print( '# Uten pålogging \n')
-dogn = sokv3.nesteNvdbFagObjekt()
-while dogn: 
-    print( dogn.egenskapverdi('Navn'), dogn.egenskapverdi( 9466))  
-    dogn = sokv3.nesteNvdbFagObjekt()
-
-sokv3.refresh()
-# sokv3.forbindelse.login()
-
-
-print( '# MED pålogging \n')
-dogn = sokv3.nesteNvdbFagObjekt()
-while dogn: 
-    print( dogn.egenskapverdi('Navn'), dogn.egenskapverdi( 9466))  
-    dogn = sokv3.nesteNvdbFagObjekt()
+if 'Graveformål' in df_skjermededata.dtypes: 
+    print( '\nGODKJENT - vi får tilgang til skjermet egenskaptype "Graveformål" med innlogging')
+else: 
+    print( '\nFEIL - vi får IKKE tilgang til skjermet egenskaptype "Graveformål" med innlogging')
