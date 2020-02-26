@@ -352,9 +352,9 @@ class nvdbVegnett:
         Kan endre hvilket miljø vi går mot.
         Parametre: 
             ingen - skriver lenken til NVDB api
-            'utv' - bruker UTVIKLINGSmiljøet
-            'test' - bruker TESTmiljø
-            'prod' - går mot PRODUKSJON
+            'utv' - bruker UTVIKLINGSmiljøet (ATLAS)
+            'test' - bruker TESTmiljø (ATLAS)
+            'prod' - går mot PRODUKSJON (ATLAS)
         eksempel
         b = nvdbFagdata(45)
         b.miljo()

@@ -25,12 +25,12 @@ Path(mappe).mkdir(parents=True, exist_ok=True)
 
 # sokv2 = nvdbapi.nvdbFagdata(objtypeId)
 sokv3 = nvdbapiv3.nvdbFagdata(objtypeId)
-sokv3.forbindelse.velgmiljo( miljo='testles')
+sokv3.miljo( 'test')
 
 df_opnedata = pd.DataFrame(  sokv3.to_records()  )
 
 sokv3skjerm = nvdbapiv3.nvdbFagdata(objtypeId)
-sokv3skjerm.forbindelse.velgmiljo( miljo='testles')
+sokv3skjerm.miljo( 'test')
 sokv3skjerm.forbindelse.login()
 
 df_skjermededata = pd.DataFrame( sokv3skjerm.to_records( ))
