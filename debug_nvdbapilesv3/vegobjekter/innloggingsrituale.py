@@ -1,3 +1,9 @@
+# Implementerer innloggingsrituale LES som beskrevet på 
+# https://nvdbapilesv3.docs.apiary.io/#reference/0/autentisering/innlogging 
+# 
+# Mer detaljer om SVV pålogging
+# https://atlas-docs.atlas.vegvesen.no/atlas-dokumentasjon/latest/tjenester/autentisering.html 
+
 import requests
 
 url = 'https://apilesv3.test.atlas.vegvesen.no/auth/login'
