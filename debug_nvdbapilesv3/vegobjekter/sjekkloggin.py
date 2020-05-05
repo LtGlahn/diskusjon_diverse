@@ -30,8 +30,9 @@ sokv3.miljo( 'test')
 df_opnedata = pd.DataFrame(  sokv3.to_records()  )
 
 sokv3skjerm = nvdbapiv3.nvdbFagdata(objtypeId)
-sokv3skjerm.miljo( 'test')
-sokv3skjerm.forbindelse.login()
+# sokv3skjerm.miljo( 'test')
+#sokv3skjerm.forbindelse.login( pw='skr.vNvdb3mye')
+sokv3skjerm.forbindelse.login( )
 
 df_skjermededata = pd.DataFrame( sokv3skjerm.to_records( ))
 
@@ -54,3 +55,10 @@ if 'Graveformål' in df_skjermededata.dtypes:
     print( '\nGODKJENT - vi får tilgang til skjermet egenskaptype "Graveformål" med innlogging')
 else: 
     print( '\nFEIL - vi får IKKE tilgang til skjermet egenskaptype "Graveformål" med innlogging')
+
+
+bkuoff = nvdbapiv3.nvdbFagdata(905) 
+bkuoff.miljo( 'test')
+
+bkuoff.forbindelse = sokv3skjerm.forbindelse
+
