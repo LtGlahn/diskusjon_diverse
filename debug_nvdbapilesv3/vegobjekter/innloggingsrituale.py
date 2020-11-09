@@ -7,7 +7,7 @@
 import requests
 #      https://nvdbapiles-v3.test.atlas.vegvesen.no/   
 url = 'https://nvdbapiles-v3.test.atlas.vegvesen.no/auth/login'
-body = {'username': 'jajens', 'password': 'skr.vNvdb3mye', 'user_type': 'employee'}
+body = {'username': 'jajens', 'password': '*****', 'user_type': 'employee'}
 headers = {'Content-Type': 'application/json'}
 
 r = requests.post( url, json=body, headers=headers) 
